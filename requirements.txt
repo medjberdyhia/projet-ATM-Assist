@@ -1,0 +1,9 @@
+python-dotenv
+requests
+openai
+chromadb
+sentence-transformers
+langgraph
+langchain-openai
+fastmcp
+pytest
