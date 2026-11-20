@@ -1,0 +1,182 @@
+Source : https://fr.wikipedia.org/wiki/Contrôle_de_la_circulation_aérienne
+
+Le service de contrôle de la circulation aérienne (ATC — de l'anglais Air Traffic Control ), communément appelé contrôle aérien, est un service rendu par des contrôleurs aériens aux aéronefs afin d'aider à l'exécution sûre, rapide et efficace des vols. Il est l'un des trois services de la circulation aérienne prévus par la Convention de Chicago afin d'assurer la sécurité du transport aérien mondial, aux côtés de l'information de vol et de l'alerte. Le contrôle du trafic aérien obéit à des règles définies par l'Organisation de l'aviation civile internationale, transposées dans le droit national par chaque pays membre.
+Le service de contrôle du trafic aérien est assuré dans les buts suivants :
+
+prévenir les collisions entre aéronefs (techniquement « abordages ») ou entre un aéronef et un obstacle ;
+accélérer et ordonner la circulation aérienne.
+Il se distingue en cela de certaines tâches de contrôle aérien militaire réalisées en appui à des missions de reconnaissance, d'interception ou de bombardement.
+Selon les pays, les régions et les aérodromes, le service de contrôle du trafic aérien est rendu par des sociétés privées, des organismes publics, ou les forces armées. Il est rendu en France par la direction des services de la Navigation aérienne.
+
+
+== Histoire ==
+Le contrôle aérien a d'abord été visuel, avant l'invention de la radio et du radar. Par la suite, le radar a amélioré la possibilité d'assister les vols de nuit et les jours de brume, mais le trafic aérien est encore fortement influencé par un rythme nycthéméral.
+
+
+== Organismes du contrôle de la circulation aérienne ==
+Pour assurer ces services, un organisme de contrôle est mis en place. Suivant le type de trafic et sa position, différents organismes assurent les services de contrôle, information et alerte. Ces organismes ont été différenciés car les compétences requises, les règles applicables, et les moyens techniques nécessaires ne sont pas les mêmes. Un centre de contrôle en route nécessite un radar, tandis que l'outil principal en contrôle d'aérodrome est la vue. En approche, tous les avions veulent aller au même endroit : la piste, on a ainsi un phénomène « d'entonnoir ». En route, les avions ont tous des provenances et destinations différentes, les problèmes sont donc pour beaucoup éparpillés et aléatoires. Ces différences, et d'autres, ont conduit à cette classification.
+
+
+=== Les centres de contrôle régional (CCR) ===
+Les centres de contrôle régional (CCR) sont chargés d'assurer les services de la circulation aérienne au bénéfice des aéronefs en croisière (en dehors de la proximité d'aérodrome). En France hexagonale, il en existe cinq, nommés « centres en route de la navigation aérienne » (CRNA). Ils se répartissent la fourniture du service de contrôle en route :
+
+CRNA Nord, Athis-Mons (situé près de l'aéroport d'Orly en région parisienne),
+CRNA Est, Reims,
+CRNA Ouest, Loperhet (situé près de Brest),
+CRNA Sud-Est, Aix-en-Provence,
+CRNA Sud-Ouest, Mérignac (situé près de l'aéroport de Bordeaux) ;
+
+
+=== Les centres de contrôle d'approche (APP) ===
+Les centres de contrôle d'approche (APP) sont chargés d'assurer les services de la circulation aérienne aux abords d'un aérodrome, dans une zone de contrôle dont la taille est variable (le trafic est généralement géré dans un rayon de 30 à 50 NM de l'aéroport concerné). Les contrôleurs aériens sont situés soit dans la vigie d'une tour de contrôle, soit dans une salle radar dédiée. En France, le contrôle d'approche est physiquement localisé dans des tours de contrôle. La salle d'approche est parfois immédiatement sous la vigie (Bâle-Mulhouse, Orly) ou au rez-de-chaussée (Roissy, Nice, Bordeaux, Toulouse, Clermont-Ferrand, etc.) ;
+
+
+=== Les tours de contrôle d'aérodrome (TWR pour Tower ou tour de contrôle) ===
+Les tours de contrôle d'aérodrome (TWR pour Tower ou tour de contrôle) sont chargées d'assurer les services de la circulation aérienne dans la circulation d'aérodrome, c'est-à-dire dans une zone restreinte liée à la portée visuelle (de l'ordre d'une dizaine de kilomètres) autour d'un aérodrome. Le service est rendu depuis la vigie d'une tour de contrôle. Les tours de contrôle peuvent avoir une ou plusieurs positions dotées de fréquences distinctes, notamment :
+
+la position LOC (pour local) pour la gestion des aires d'atterrissage (pistes) et des circuits associés,
+la position SOL (parfois GND pour Ground) est chargée de la circulation au sol : appareils au roulage, divers véhicules (tels que les camions de pompiers du SSLIA),
+la position prévol ou clairance (PVL ou DEL pour Delivery clearance ou délivrement de clairances) est chargée sur les aéroports à fort trafic de donner les clairances de mise en route aux appareils en règles de vol aux instruments (IFR). Cela permet d'alléger la charge de travail du contrôleur SOL si présent ou du contrôleur LOC.
+
+
+== Espaces aériens et aérodromes contrôlés ==
+Le contrôle aérien est toujours lié à un espace aérien ou à un aérodrome, qui peuvent avoir le statut de « contrôlé » ou « non contrôlé ».
+
+
+=== Dans un espace aérien ===
+Tout l'espace aérien est par défaut non contrôlé. Dans cet espace aérien, on crée ensuite là où c'est nécessaire des portions d'espace aérien contrôlées. Outre ses limites géographiques, chaque portion est définie par sa classe d'espace aérien, définissant la nature des services rendus, et les conditions de vol pour pouvoir y pénétrer (visibilité minimale, distance minimale des nuages, vitesse de vol, emport d'un équipement radio, etc.). En général, plus le trafic est dense, plus les conditions pour y pénétrer sont contraignantes.
+Ainsi l'existence d'un organisme de contrôle est liée à l'existence d'un espace aérien, et vice versa. Le contrôle n'existe que s'il y a un espace, et la compétence de l'organisme de contrôle est limitée à cet espace. De même, un espace aérien n'existe que dans les horaires de fonctionnement de l'organisme qui en est chargé. Lorsque le service de contrôle ferme (par exemple, de nuit sur un aérodrome), les espaces aériens et la circulation d'aérodromes associés sont déclassés comme « non contrôlés » (classe G) pendant cette période.
+
+
+=== Sur un aérodrome ===
+Un aérodrome est juste qualifié de « contrôlé » ou « non contrôlé ». Il n'y a pas de nuances dans le rendu du service de contrôle comme dans les espaces.
+Un organisme de contrôle d'aérodrome ne peut exister que sur un aérodrome contrôlé. En dehors des permanences de l'organisme de contrôle, l'aérodrome devient non contrôlé. La zone de compétence du contrôle recouvre le sol, la piste d'atterrissage et l'espace aérien immédiatement adjacent à la piste.
+Sur un aérodrome non contrôlé, deux cas peuvent se présenter. Soit un service AFIS est assuré, auquel cas un agent AFIS dans la tour de contrôle assure les services d'information et d'alerte (un agent AFIS ne fait pas de contrôle au sens réglementaire du terme), soit aucune permanence n'est assurée, auquel cas les pilotes font de l'auto-information, soit sur une fréquence attribuée à l'aérodrome, soit sur la « fréquence club » 123,5 MHz. Dans un tel cas, les pilotes discutent entre eux sur la fréquence pour se mettre d'accord sur les ordres de passage et s'informer mutuellement de leurs positions respectives.
+
+
+== Outils et méthodes de travail ==
+
+
+=== Radiotéléphonie ===
+La radiotéléphonie, appelée couramment « fréquence » ou « micro », est le principal outil des contrôleurs. Le contrôle aérien utilise principalement des radiocommunications VHF, mais aussi parfois, notamment pour le contrôle océanique, des fréquences HF qui ont une plus longue portée. Les militaires utilisent aussi les fréquences UHF. La bande de fréquences VHF réservée à la communication vocale en aéronautique s'étend de 117,975 MHz à 137 MHz (à titre de comparaison, la radio FM est émise entre 87,5 et 107,95 MHz, et la radionavigation aéronautique utilise, entre autres, la bande de 108 à 117,950 MHz).
+La fréquence est l'outil que le contrôleur utilise traditionnellement pour :
+
+recevoir des informations de la part des pilotes ;
+délivrer des clairances (instructions) aux aéronefs.
+La caractéristique pratique de la radiotéléphonie de l'aviation civile est d'être une communication unilatérale : une seule station peut émettre à un moment donné. Si deux stations émettent en même temps, la fréquence est brouillée et on n'entend aucun des locuteurs.
+Les échanges en radiotéléphonie sont codifiés. Tous les messages courants ont une forme canonique qui doit être utilisée. On appelle cela la phraséologie. Elle est étudiée pour que les messages soient :
+
+concis ;
+clairs ;
+sans ambiguïté.
+À titre d'exemple, le chiffre neuf se prononce en anglais niner (avec un son « r » à la fin). En français, le chiffre un s'exprime « unité » pour plus de clarté. L'expression « affirmatif » est interdite, pour éviter les confusions. Elle est remplacée par « affirme ».
+L'alphabet radio international est d'application, il permet une meilleure compréhension de chaque lettre au moyen de mots compréhensibles et prononçables dans le monde entier.
+Enfin, le collationnement (readback) est obligatoire pour la plupart des instructions : il s'agit de répéter l'instruction (ou du moins les éléments principaux) pour confirmer la bonne compréhension. Dans certains cas, le contrôleur doit encore confirmer avec le mot « correct ». Par exemple, pour autoriser un avion au décollage, le contrôleur lui communiquera l'instruction cleared for take off ou « autorisé au décollage », donnera la direction et la vitesse du vent et le numéro de la piste. Le pilote doit répéter l'instruction et, le cas échéant, la piste en service.
+Les communications sont enregistrées et conservées pendant en général un mois. Il est strictement interdit de communiquer sur une fréquence d'aviation sans être détenteur d'une licence de radiotéléphonie restreinte (attribuée, entre autres, aux contrôleurs aériens, aux pilotes et au personnel au sol qui est amené à se déplacer sur les taxiways et pistes).
+Bien souvent, afin d'obtenir la licence radio, le candidat doit prêter serment de ne jamais faire part au monde extérieur des communications entendues sur les fréquences. Or certains pays légalisent la vente et l'utilisation de scanners (appareils permettant l'écoute des fréquences), donc le caractère secret des communications n'est plus garanti.
+Remarque sur l'utilisation des émetteurs : beaucoup de personnes pensent qu'il n'est pas possible d'identifier une personne émettant sur une fréquence d'aviation. Or les principaux aéroports sont bien souvent équipés de radiogoniomètres (aussi appelés gonio ou homer), qui permettent au bout de quelques secondes d'émission, d'avoir des informations sur la provenance du signal. Ce moyen sert, entre autres, à repérer un avion perdu (surtout en l'absence de radar) et lui donner une information (QDM) sur la position relative de l'aérodrome.
+
+
+=== Strips ===
+Les strips sont de petites « bandes de progression » (strip en anglais) en papier sur lesquelles sont inscrites les informations relatives aux vols pris en charge par le contrôle aérien.
+
+À chaque phase de vol correspond donc des strips, où sont imprimés les détails connus du vol : indicatif d'appel en radio téléphonie, route, provenance, destination, type d'aéronef, niveau de vol ou altitude, waypoints de passage.
+Le contrôleur utilise ensuite ce strip pour y inscrire les instructions qu'il donne à l'aéronef : changements de cap, d'altitude ou encore de vitesse, autorisations d'atterrissage ou de décollage, horaires de passage de certains points…
+Par la suite, le strip est archivé et utilisé comme preuve pour facturer le service de contrôle aérien à la compagnie aérienne.
+Certains systèmes modernes remplacent les strips en papier par des « strips électroniques » affichés à l'écran alors que d'autres systèmes de contrôle s'affranchissent totalement des strip (système stripless), les informations de chaque vol sont alors affichées directement dans le label de la piste sur l'écran (c'est le cas depuis 2016 pour le contrôle en route de Bordeaux en France).
+
+
+=== Contrôle radar ===
+Contrairement à ce que l'on pourrait penser, le radar n'existe pas dans tous les centres de contrôle. La plupart des petits aérodromes sont dépourvus d'écrans de visualisation radar.
+
+Deux types de radar sont utilisés dans l'aviation civile :
+
+le radar primaire, qui est encore très utilisé pour le contrôle aérien militaire, car il détecte les avions possédant ou non un transpondeur. Dans le civil, il est tombé en désuétude au profit du secondaire. Il est encore utilisé sur les grandes approches, où il est en redondance avec le radar secondaire par sécurité, et pour les radars sols sur les grands aéroports comme l'aéroport Paris-Charles-de-Gaulle, où il permet de suivre le déplacement des aéronefs et véhicules au sol ;
+le radar secondaire est le plus utilisé dans l'aviation civile, qui profite de l'identification des pistes et de la visualisation uniquement des vols pertinents. Ce type de radars ne localise que les avions possédant un transpondeur.
+Le contrôleur utilise le radar pour rendre trois services, appelés « services radar » :
+
+assistance radar : fournit aux aéronefs des informations relatives à leur position et aux écarts par rapport à leur route ;
+surveillance radar : utilise le radar pour mieux connaître la position des aéronefs ;
+guidage radar : donne des caps aux aéronefs afin de leur faire suivre une trajectoire spécifiée.
+Ces services radar ne peuvent être assurés qu'à des aéronefs identifiés radar. De plus, certains organismes ne peuvent assurer qu'une partie des services radar, à cause des performances des systèmes ou de la configuration de leur espace aérien. Par exemple, le guidage radar n'est pas recommandé en classe E. Dans ce cas, seules la surveillance et l'assistance radar sont fournies.
+Pour plus d'information sur l'utilisation du radar en pratique, voir contrôle d'approche
+En France, en circulation aérienne générale, il existe aujourd'hui quatre interfaces de contrôle :
+
+IRMA 2000 : Pour les grandes approches ou pour le contrôle de CTR ;
+ODS : Dans le CRNA/N ainsi qu'à Paris CDG ;
+EEE : Environnement Électronique ERATO (stripless) mis en service en décembre 2015 au centre de Brest (CRNA/O) et en 2016 au centre de Bordeaux (CRNA/SO).
+4F : 4-Flight (stripless), nouveau système de contrôle développé par Thalès, mis en service en juin 2022 au CRNA/E et en décembre 2022 au CRNA/SE.
+
+
+== Fourniture du service de contrôle ==
+Pour assurer le service de contrôle, un contrôleur utilise principalement les clairances (ou autorisation) : il s'agit d'instructions et d'autorisations accordées à un aéronef pour pouvoir circuler dans des conditions spécifiées.
+Le commandant de bord d'un aéronef peut toutefois décider de déroger à une clairance mais doit pouvoir justifier sa décision pour une raison de sécurité (par exemple, virage qu'il estime trop serré). Le non-respect d'une instruction du contrôle aérien peut mener à une infraction selon le Code de l'aviation civile.
+Les moyens qu'utilise le contrôleur pour prévenir les collisions sont :
+
+la séparation (anciennement « espacement »), qui consiste à ménager entre deux aéronefs une distance minimale, garantissant la sécurité de ces deux avions ;
+l'information de trafic : c'est une information précise, autant que faire se peut, sur la position d'un autre aéronef susceptible de se rapprocher dangereusement. Cela peut aider un pilote à voir un autre aéronef conflictuel, afin de lui permettre de l'éviter.
+Le moyen utilisé pour prévenir les abordages dépend du régime de vol et de la classe de l'espace considéré.
+
+
+=== Gestion de flux et capacité du trafic aérien ===
+
+Lorsque des secteurs de contrôle en route ou des aérodromes sont saturés en trafic aérien, cela peut engendrer des risques liés à l'augmentation de la charge de travail du contrôleur aérien, ou des circuits d'attente imposés à des aéronefs en vol. Ainsi, la sécurité du trafic peut s'en trouver compromise. C'est là qu'intervient le concept de la gestion des flux de trafic aérien (ATFM). En Europe, c'est Eurocontrol, via le « Network Manager » (CFMU, Central Flow Managing Unit) qui est chargé de veiller à ce qu'il n'y ait pas davantage de vols dans l'espace aérien que ce que le système peut accepter. Cet organisme, en coordination avec les centres de contrôle et les compagnies aériennes, veille à ce que la charge de trafic pour chaque secteur de contrôle ou aérodrome ne dépasse pas une limite qui mettrait la sécurité en jeu.
+Si cette limite est atteinte ou dépassée, la CFMU provoque un allègement de la charge de trafic : soit par un étalement de certains décollages grâce à l'établissement de créneaux horaires, ou bien en imposant des changements de route ou d'altitude de vol. Un certain nombre de vols sont ainsi retardés ou déroutés afin de ne pas surcharger les secteurs concernés.
+
+
+=== Services d'information de vol et d'alerte ===
+
+Outre le service du contrôle en espace aérien contrôlé et dans la circulation d'un aérodrome contrôlé, l'organisme de contrôle est chargé d'assurer ces deux types de service.
+Le service d'information de vol (en anglais FIS : Flight Information Service) est un ensemble d'informations et d'alertes émises par une tour de contrôle d'aérodrome à destination du pilote d'aéronef dans un aérodrome non contrôlé. Cet envoi d'informations utiles au vol est effectué par un agent AFIS, qui, comme un contrôleur aérien, travaille depuis la vigie de la tour de l'aérodrome. Cependant, contrairement à ce dernier, il ne peut donner aucune instruction au pilote mais il peut lui suggérer des manœuvres.
+
+
+=== Couverture opérationnelle des fréquences ===
+AFIS, A/A (Information et auto-information) : 16 NM / 3 000 pieds AAL.
+ATIS : 60 NM / FL200.
+TWR (Tour) : 25 NM / 4 000 pieds AAL.
+APP (Approche) : 25 NM / FL100 à 50 NM / FL250 (variable selon l'espace aérien).
+
+
+== Évolution des outils du contrôleur ==
+
+
+=== Les strips électroniques ===
+Les limites du système de strip papier ont commencé à apparaître avec la complexification des systèmes de visualisation radar, notamment l'apparition du filet de sauvegarde. Il s'agit d'une fonction qui permet de prédire la trajectoire des aéronefs, et d'afficher une alerte si le système prévoit que les aéronefs vont se rapprocher dangereusement dans les prochaines minutes. Le contrôleur prend alors une mesure corrective.
+Ce système est un progrès énorme, mais présente des limites. Les calculs de trajectoires sont basés uniquement sur les informations radar, et ne prennent pas en compte les clairances données par le contrôleur. Parfois, une alerte se déclenche alors que le contrôleur a déjà pris les mesures pour la corriger. Dans ce cas, en plus du stress engendré par l'alarme, le contrôleur perd confiance dans le système, et risque d'ignorer l'alerte plus tard à un moment où elle était justifiée. Cette limite du système est donc un facteur de risque, et une étude a été menée pour chercher les solutions possibles. Une de ces solutions est le strip électronique.
+Le problème vient du fait que l'ordinateur ne dispose pas d'informations suffisantes pour calculer les trajectoires de façon précise, sur un intervalle de temps de plusieurs minutes. Les informations que le contrôleur note sur ses strips seraient très utiles au système pour affiner ses prédictions. Il faut donc que le contrôleur renseigne ses strips, non plus sur papier, mais sur un ordinateur, afin que le filet de sauvegarde puisse aller y puiser les informations dont il a besoin. Les premiers projets ont consisté en un écran horizontal où sont dessinés des strips que le contrôleur peut remplir à l'aide d'un clavier et d'une souris. Un autre projet est une visualisation radar avec des menus déroulants permettant de changer le cap, la vitesse, l'altitude des avions.
+Cependant parmi les contrôleurs, ce sujet suscite de la méfiance. En effet le strip papier est considéré comme le dernier recours quand les autres outils tombent en panne. Si la visualisation radar et le système de strip électronique tombent en panne en même temps, le contrôleur perd toutes ses informations, et est incapable de faire son travail. Également d'un point de vue plus psychologique, le strip a toujours été l'outil et le symbole des contrôleurs, et s'en détacher n'est pas facile.
+Cependant les systèmes sans strip sont aujourd'hui les plus communs dans le monde et la méfiance initiale a fait place à une bonne acceptation du stripless. Les informations qui étaient disponibles sur les strip sont facilement introduites dans le système. Ainsi le système peut mettre à jour la situation et donner des alarmes le cas échéant. Le partage d'informations entre secteur est possible contrairement au strip papier qui n'est lisible que par les contrôleurs à proximité.
+En France, le système stripless EEE (Environnement Électronique ERATO) a été mis en service à Brest fin 2015. Ce système est l'évolution du système ODS associé au serveur ERATO fournissant des aides au contrôle (En Route Air Traffic Organizer), développé en interne à la DGAC depuis les années 1990. Cependant, à l'horizon 2020, tous les centres de contrôle français se doteront du système 4-Flight, remplaçant du CAUTRA actuel, qui embarquera le serveur ERATO, et substituera le système de traitement des plans vols actuel, STPV, par CoFlight. Ce système permettra une gestion plus fine des trajectoires ainsi qu'un interfaçage complet avec le Data Link.
+
+
+=== Le Data Link ===
+Créé initialement pour aider au contrôle du trafic au-dessus des espaces océaniques, ce système est en passe de devenir un nouvel outil capable de remplacer ou de seconder le radar et de compléter les communications vocales. Grâce à un équipement spécial à bord de l'avion, les données des calculateurs de bord (position, altitude, vitesse, météo) sont collectées, puis transmises à intervalles réguliers par satellite — au-dessus des océans — vers les équipements au sol. Une interface graphique permet de visualiser ces éléments et leur mise à jour sur un écran. Les images obtenues peuvent même être intégrées sur les écrans radar de dernière génération (moniteur graphique). Il s'agit aussi d'utiliser une messagerie électronique pour les dialogues entre pilotes et contrôleurs.
+Services rendus :
+ADS (Automatic Dependant Surveillance) : Surveillance automatique de la position réelle de l'avion. Pour l'instant on utilise principalement l'ADS-C (pour Contrat). Des contrats sont établis automatiquement entre le sol et les vols pour que les données soient envoyées à intervalles réguliers vers le contrôle aérien (exemple : toutes les 20 minutes). Si l'avion dévie de son profil de vol autorisé (route…), il passe dans un mode de surveillance plus serré qui permet de corriger sa position rapidement. Ce n'est malgré tout pas un remplacement d'un radar classique, principalement à cause du délai entre les mises à jour. Ce système est en service actuellement dans de nombreuses régions océaniques, par exemple au-dessus du Pacifique entre les FIR de la Nouvelle-Zélande, de Tahiti et celle d'Oakland aux États-Unis.
+Le futur, c'est l'ADS-B (Broadcast : diffusion). Là, les délais d'envoi des informations par les vols seront très courts et permettront une surveillance accrue, identique à celle d'un radar classique. Ce système est en cours d'homologation par l'OACI. L'Australie le teste déjà conjointement avec un système radar pour pouvoir l'utiliser au-dessus des zones semi-désertiques où la mise en place de radars est soit trop onéreuse soit impossible. La France va bientôt équiper la zone de La Réunion et pourrait étendre ensuite ce système à toutes les zones impossibles à équiper en radar (archipels polynésiens, Guyane, etc.).
+CPDLC (Controller-Pilot Data Link Communications) : En plus de la partie surveillance automatique dévolue à l'ADS, le deuxième apport du DATA LINK est la possibilité de communication entre les pilotes et les contrôleurs par un système de messagerie. L'amélioration est spectaculaire particulièrement dans les zones transocéaniques, là où seule la HF est utilisable. Ces dialogues sont codifiés pour des raisons de sécurité : messages préformatés avec passage de paramètres (ex : autorisation de monter ou de descendre à tel ou tel niveau de vol), avec des procédures de bouclage pour s'assurer que l'information a bien été envoyée, reçue et suivie.
+Citons encore la « surveillance enrichie » ou CAP (Controller Access Parameters) qui est mise en œuvre en Europe continentale à l'aide de radars dits « mode S ». Les systèmes bord enverront automatiquement des informations de surveillance précises telles que : le cap magnétique, le taux de montée, la vitesse indiquée… Ces informations devenant disponibles pour les contrôleurs aériens, la surveillance des vols devient plus fine et la charge de communication réduite entre pilotes et contrôleurs.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Bibliographie ===
+Georges Maignan, Le contrôle de la circulation aérienne, Paris, Presses universitaires de France, coll. « Que sais-je? », 1994, 127 p. (ISBN 2-13-043553-X)
+
+
+=== Sources ===
+RCA
+
+
+=== Liens externes ===
+Direction de la circulation aérienne militaire française
+Site de l'organisation européenne pour la sécurité de la navigation aérienne (EUROCONTROL)
+
+ Portail de l’aéronautique

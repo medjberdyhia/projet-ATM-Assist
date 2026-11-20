@@ -1,0 +1,70 @@
+Source : https://fr.wikipedia.org/wiki/Ciel_unique_européen
+
+Le ciel unique européen (en anglais : Single European Sky ou SES) est une initiative de l’Union européenne qui cherche à rénover la fragmentation du système de gestion du trafic aérien européen à l’aide de mesures réalisées dans quatre plans différenciés (institutionnel, opératif, technologique et de contrôle) avec le but de satisfaire les besoins futurs de l'espace aérien européen en matière de capacité, sécurité, efficacité et d’impact sur l’environnement.
+
+
+== Contexte ==
+Le ciel européen est un espace aérien de 1,7 million de km2 (1 780 km du nord au sud et 1 835 km d’ouest en est) composé d'environ 370 secteurs de contrôle et 400 zones gérées par la Défense. Au total, 5,5 millions de vols ont lieu tous les ans, par an et ce nombre devrait atteindre 7 millions en 2016. Les vols sont actuellement[Quand ?] gérés par 14 centres de contrôle en route et environ 240 aéroports, dont 3 aéroports majeurs : Paris-CDG, Amsterdam et Francfort. 17 700 personnels civils, ainsi que des personnels militaires.
+
+
+== Historique ==
+En 1999, la Commission européenne a proposé dans une communication de faire évoluer l'organisation de l'espace aérien européen afin de construire un véritable ciel unique. Les objectifs recherchés sont l'augmentation des capacités de l'espace aérien et le renforcement de l'efficacité et de la sécurité du trafic. Le découpage des secteurs et la définition des routes devaient être indépendants des frontières nationales. La construction du ciel unique doit passer par des mesures techniques et opérationnelles communes, mais aussi par une gestion collective de l'espace aérien.
+Depuis, deux « paquets » législatifs ont été adoptés : le Ciel unique I en 2004 et le Ciel unique II en 2009. 
+Les ministres des transports de l'Union européenne ont annoncé, après les troubles occasionnés aux transports aériens par l'éruption du volcan Eyjafjöll en 2010, leur volonté d'accélérer la mise en place du ciel unique.
+Les autorités civiles et militaires de France, d'Allemagne, de Suisse, de Belgique, des Pays-Bas et du Luxembourg ont signé le 2 décembre 2010 un traité qui prévoit la mise en place entre ces six pays d'un bloc d’espace aérien fonctionnel commun (FAB) au sein duquel la gestion du trafic aérien sera organisée indépendamment des frontières nationales . L'Autriche, la Bosnie-Herzégovine, la Croatie, la République tchèque, la Hongrie, la Slovaquie et la Slovénie ont signé pour leur part, le 5 mai 2011, un accord visant à créer le bloc d’espace aérien fonctionnel d'Europe centrale. 
+Cependant en juillet 2012 le ciel européen n'est pas achevé. La députée européenne Jacqueline Foster pointe du doigt les retards et l’urgence d’accélérer la mise en place des mesures prévues pour garantir la qualité des services aériens fournis aux citoyens européens.
+
+
+== Objectif ==
+L'établissement de règles communes et d'une meilleure coopération entre les centres de contrôle aérien, dans un espace fragmenté entre autant d'autorités nationales que l'Europe, a pour but de :
+
+fluidifier le trafic et d'éviter ainsi la saturation de l'espace aérien dans les années à venir ;
+de réduire les temps de parcours en permettant aux avions de suivre, dans la mesure du possible, le parcours le plus court (grand cercle) en effectuant le moins de détours possible.
+Outre un gain de temps pour les voyageurs, l'optimisation des routes aériennes devrait permettre une économie significative de carburants et une réduction des émissions de gaz à effet de serre de l'aviation civile.
+
+
+== Règlementation européenne ==
+Le paquet Ciel unique I comprend quatre règlements :
+
+Le paquet Ciel unique II comprend principalement un règlement :
+
+
+== Outils techniques : SESAR ==
+
+Le ciel unique européen repose sur un programme de recherche en matière de gestion du trafic aérien appelé SESAR (Système européen de nouvelle génération pour la gestion du trafic aérien). SESAR doit permettre d'obtenir de meilleures performances en triplant la capacité actuelle et en décuplant le degré de sécurité, en réduisant de 50 % les coûts supportés par les compagnies aériennes et en réduisant l’impact du transport aérien sur l’environnement et le temps de trajet de 10 % par vol. 
+
+
+== Organisation fonctionnelle : les FAB ==
+
+Les « blocs d'espace aérien fonctionnels » ou FAB (en anglais functional airspace blocks) doivent regrouper en 2012 les pays européens au sein de neuf zones géographiques pour la gestion du trafic aérien. Le plus important est le FABEC, construit autour de la France et de l'Allemagne. L'organisation institutionnelle (organisme unique intégré ou coopération entre les autorités de contrôle aérien nationales existantes) demeure à définir.
+La création de l'ensemble des FAB est prévue avant la fin 2012.
+
+
+== Accords internationaux ==
+En avril 2007, les États-Unis et l'Union européenne et ses États membres ont signé un accord sur le transport aérien.
+
+
+== Sources ==
+
+
+=== Références ===
+
+
+=== Bibliographie ===
+
+Antoine Beyer, « Les frontières du « Ciel unique européen » », Flux, no 71,‎ 2008 (lire en ligne)
+(es) Anxo García-Ferreiro, Curso de Derecho Aeronáutico Práctico para Operadores Aéreos : El Cielo Único Europeo. Un nuevo concepto de gestión del tráfico aéreo para Europa, Madrid, Instituto Iberoamericano de Derecho Aeronáutico y del Espacio y de la Aviación Comercial, 2016, 317 p. (ISBN 978-84-608-7580-2, lire en ligne)
+
+
+== Compléments ==
+
+
+=== Articles connexes ===
+Espace aérien
+
+
+=== Liens externes ===
+(en) Single European Sky (site de la Commission européenne)
+(en) European Commission Guidance Material for the Establishment and Modification of Functional Airspace Blocks (FAB), edition 1.0 of 03 December 2010.
+
+ Portail de l’Union européenne   Portail de l’aéronautique

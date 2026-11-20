@@ -1,0 +1,94 @@
+Source : https://fr.wikipedia.org/wiki/Radar_secondaire
+
+Un radar secondaire, ou SSR (Secondary Surveillance RADAR), est un dispositif radar de contrôle aérien qui « interroge » le ciel. Le sigle IFF, pour Identification Friend or Foe (Identification Ami-Ennemi), désigne un dispositif électronique embarqué développé par les Alliés pendant la Seconde Guerre mondiale permettant, par interrogation radar, d'identifier les aéronefs « amis » ou « ennemis ».
+Ce dispositif a été amélioré depuis, du moins pour un usage civil, et a donné naissance aux transpondeurs (interrogation par radar secondaire en mode A, B ou C). Suivant le mode utilisé, l'opérateur radar au sol peut identifier un appareil par un code attribué à l'avance (squawk) et ainsi obtenir sa position, son niveau de vol (référence altimétrique 1 013 hPa) : mode C. Sa route et sa vitesse sont calculées par le radar. Les transpondeurs des avions qui sont à sa portée lui répondent. Les réponses des avions sont capturées par l'antenne du radar secondaire, sont analysées et traitées électroniquement, et par la suite visualisées sur les écrans des contrôleurs aériens.
+
+
+== Caractéristiques ==
+Ce type de radar permet de déterminer, comme tous les radars, la position de l'avion à l'aide d'un gisement et d'une distance relatifs à l'antenne. Le radar secondaire a plusieurs avantages qui lui sont propres. Comme un transpondeur est nécessaire pour être détecté par un radar secondaire, seuls les plots pertinents seront visualisés, et les obstacles ou les oiseaux n'apparaîtront pas, évitant ainsi une « pollution visuelle » de l'écran de l'opérateur du radar. Un autre avantage est le fait que des données peuvent être transmises au système radar. Les données dépendent du mode du transpondeur utilisé par l'avion, et des capacités de l'antenne radar.
+L'IFF permet entre autres d'obtenir l'altitude de l'appareil par mode d'interrogation. Le mode d'interrogation 3/C est directement relié à l'altimètre de l'appareil. De par sa conception, le radar IFF est de taille très réduite.
+En-effet, il ne nécessite pas autant de puissance qu'un radar primaire :
+- le radar primaire émet une onde qui est réfléchie par la cible (avion) et revient ensuite à l'antenne de la source (émetteur radar). Le signal parcourt donc un aller-retour complet et subit une atténuation sur tout ce trajet. Le signal émis par l'antenne radar doit donc être suffisamment puissant pour supporter une telle atténuation (Propagation des ondes radio) tandis que l'avion est totalement "passif".
+- le radar secondaire, quant à lui, envoie une interrogation à l'avion qui, à son tour émet une réponse codée. L'avion est « actif ». Chacun de ces signaux ne parcourt donc qu'un seule fois la distance séparant la source de la cible (trajet aller pour le signal source/cible, trajet retour pour le signal cible/source). L'antenne radar n'a par-conséquent pas besoin d'autant de puissance que dans le cas du radar primaire puisque le signal ne subira d'atténuation que sur le trajet aller. De plus, la nature du signal demande moins de puissance ou parcourt une plus grande distance (par analogie respectivement entre devoir éclairer un véhicule pour en observer les informations et pouvoir communiquer avec par signaux lumineux).
+
+
+== Modes ==
+Le radar secondaire émet deux ou trois impulsions pour interroger les aéronefs volant dans le secteur de contrôle aérien. La séparation temporelle entre deux impulsions détermine le mode utilisé et la question posée. Le transpondeur des appareils répond par une série d'impulsions codées. Les modes militaires et civils (A, C et S) sont couramment utilisés, alors que les modes B et D sont définis mais non utilisés.
+
+
+=== Mode A (Alpha) ===
+
+Le mode A est le plus simple des modes de transmission de données entre l'avion et le sol. La seule information transmise est un code SSR, de quatre chiffres inclus entre 0 et 7. Le code sera affiché sur la visualisation radar du contrôleur. Chaque avion se voit attribuer un code unique, donc ce code permet d'établir une relation entre un plot et un avion, d'identifier avec certitude que ce plot correspond à cet avion. On appelle cela l'identification radar. Avec le mode A, le contrôleur dispose donc de la position de l'avion, et d'un moyen d'identification radar.
+
+
+=== Mode C (Charlie) ===
+Le mode Charlie est encore le plus utilisé en 2012. Comme le mode A, il demande l'indicatif de l'appareil mais requiert une information d'altitude. Cette donnée est mesurée dans l'avion, transmise au radar, puis visualisée sur l'écran du contrôleur. Souvent désigné par « Alt » sur les transpondeurs actuels.
+
+
+=== Mode S (Sierra) ===
+Le mode S est encore une évolution du radar secondaire. Le nombre de codes disponibles en mode A et C est limité (4096 codes seulement) et devient insuffisant pour les besoins actuels. Le mode S permet donc une véritable liaison de données. En plus du code attribué par un contrôleur et de l'altitude donnée par un alticodeur, l'immatriculation ou l'indicatif de l'avion est transmis. N'importe quelle donnée peut être transmise, aussi bien de l'avion vers le sol que du sol vers l'avion. Les applications sont nombreuses.
+
+
+=== Modes militaires ===
+L'IFF effectue dans les avions militaires les mêmes fonctions que le transpondeur. Il ajoute une fonction militaire d'identification ami/hostile. Il existe différents modes militaires : 1, 2, 3, 3C, 4 et 5. Les modes 3 et 3C sont les équivalents militaires aux modes Alpha et Charlie. Les modes 1, 2, 4 et 5 sont exclusivement militaires. Les modes 4 et 5 sont chiffrés et le mode 5 permet un véritable dialogue informatique.
+
+
+== Traitement des informations radar ==
+
+
+=== Élimination des fausses réponses ===
+Les impulsions envoyées par le radar se retrouvent non seulement dans la direction du faisceau principal, mais également à un degré moindre tout autour du radar selon le diagramme de rayonnement de l'antenne. Le signal d'interrogation d'un ou plusieurs lobes secondaires a de bonnes chances d'être perçu par l'antenne d'un aéronef en vol et de déclencher l'opération du transpondeur. L'appareil se trouvant sur le chemin du faisceau principal et des lobes secondaires verra ainsi son transpondeur répondre à l'interrogation de chaque lobe assez intense.
+La réponse provenant de l'interrogation par les lobes secondaires sera affichée à l'écran radar dans la direction où se trouve le faisceau principal à ce moment-là, et à la même distance du radar que celle de la réponse du faisceau principal antérieurement. Il semblera donc à l'opérateur radar qu'il y a donc plusieurs cibles équidistantes ayant la même identification autour du radar. Dans le cas extrême où l'avion est très près du radar, le transpondeur sera continuellement sollicité durant un tour complet de l'antenne, et ses réponses formeront un anneau sur l'affichage PPI.
+Il y a deux techniques simples pour la suppression des lobes secondaires : la suppression à l'interrogation et la suppression à la réception. Une autre technique existe pour réduire l'influence des fausses réponses causées par la réflexion multiple du faisceau radar : la suppression améliorée des lobes secondaires à l'interrogation.
+
+
+==== Suppression à l'interrogation ====
+
+Un radar secondaire a généralement deux antennes : l'antenne principale directionnelle et une seconde omnidirectionnelle. La première émet deux impulsions en mode interrogation (P1 et P3), dont l'espacement temporel correspond à la question posée. Cette antenne a un faisceau principal mince, de l'ordre de 2° à 3° en azimut, où elle concentre son énergie. L'antenne omnidirectionnelle émet une impulsion de « contrôle » P2 de façon isotrope, juste après l'impulsion P1. Cette impulsion doit être beaucoup plus faible que les impulsions P1 et P3 du faisceau principal.
+Les impulsions P1 et P3 sont aussi émises dans les lobes secondaires, mais avec une intensité beaucoup plus faible. Il en découle que le rapport entre les intensités de P1 et P2 sera donc plus petit si un avion les reçoit à partir de la direction d'un lobe secondaire :
+
+Égale au rapport théorique de P1 du faisceau principal à P2 de l'antenne de contrôle, le transpondeur reçoit bien la question du faisceau principal et y répond ;
+Si P2 est plus intense que P1 ou si la différence est plus petite que le rapport espéré, le transpondeur reçoit une question d'un lobe secondaire et ne doit pas y répondre.
+
+
+==== Suppression à la réception ====
+Le principe est similaire à celui de la suppression à l'interrogation : les signaux envoyés par le transpondeur d'un avion seront plus intenses s'ils sont captés par le lobe principal de l'antenne directionnelle que par ses lobes secondaires. Il faut encore une fois les deux mêmes antennes, chacune connectée à des récepteurs identiques, et un comparateur. En comparant l'amplitude du signal venant des deux récepteurs, il est possible de différencier les réponses provenant des lobes secondaires de celle du lobe principal :
+
+Si le signal du récepteur de l'antenne principale est plus élevé de la différence que celui de l'antenne de contrôle du facteur de la différence de gain entre les deux, c'est que le signal provient du lobe principal et doit être gardé ;
+Si la différence est moindre ou même le signal du récepteur de l'antenne omnidirectionnelle est plus élevé, c'est que la réponse provient d'un lobe secondaire et doit être éliminée.
+
+
+==== Suppression des réflexions ====
+Les radars secondaires sont utilisés dans un environnement plein de constructions causant des réflexions (hangars, aérodrome, clôtures, etc.). Le message d'interrogation et la réponse des appareils en vol peuvent être chacune réfléchies par ces surfaces avec assez de puissance pour s’ajouter aux signaux directs, causant des « fantômes » sur l'écran radar à une distance et un azimut erronés.
+Une méthode appelée « suppression améliorée des lobes secondaires à l'interrogation » permet d'en éliminer une bonne partie. Dans ce cas, l'impulsion P1 est émise par l'antenne de contrôle omnidirectionnelle en plus de P2. Dans le cas où l'antenne directionnelle pointe vers l'avion, P1 de cette antenne plus P1 s'additionnent et cela revient au cas de suppression à l'interrogation. Par contre, dans les autres directions, l'appareil en vol reçoit la paire P1-P2 directement de l'antenne de contrôle et comme les deux ont la même intensité (P1 = P2), le transpondeur ne répond pas à l'interrogation. Cela met le transpondeur hors-circuit pour un certain laps de temps, temps pendant lequel les impulsions qui auraient pu être réfléchies par des obstacles, et parcourir une plus longue trajectoire, ne recevront pas de réponse.
+
+
+==== Suppression des interférences ====
+
+Les réponses du transpondeur durent 20,3 µs et sont formées de 15 impulsions, contenant l'information demandées, séparées de 1,45 µs l'une de l'autre. Le principal problème d'interférences pour un radar secondaire est la superposition des réponses venant de deux aéronefs très rapprochés ou de la réception de réponses sollicitées à d'autres systèmes de communications au sol. Il se divise en perturbations synchrones et asynchrones. 
+
+Fruit
+Tous les radars secondaires émettent sur la fréquence 1 030 MHz, et les transpondeurs répondent de façon omnidirectionnelle sur la fréquence 1 090 MHz. Ces fréquences standard permettent aux avions de pouvoir passer d'une zone de contrôle aérien à une autre, sans avoir besoin de changer à chaque fois les paramètres de leur transpondeur, mais cette réponse pourra cependant être captée par tous les récepteurs de radars secondaires ou de stations de contrôle terrestres situés dans la zone de rayonnement de l'émetteur de bord. 
+Ainsi le récepteur d'une station B pourra détecter une réponse à une interrogation d'une station A, dès l'instant où la cible C se retrouve dans la zone de recouvrement des couvertures de A et de B. Afin d'éliminer les fausses réponses, tous les messages reçus avec une impulsion radar sont comparées avec celles de l'impulsion suivante. Seules les réponses provenant des mêmes positions d'une impulsion à l'autre seront conservées car elles correspondent à l'interrogation du radar secondaire. Les autres, appelées « réponses asynchrones » ou « fruit » (pour False Replies Un-synchronised In Time), seront positionnées de façon aléatoire et éliminées. 
+
+Enchevêtrement
+Il s'agit de réponses qui s'enchevêtrent l'une dans l'autre, de telle sorte qu'il est difficile de les attribuer à un avion en particulier. Elles proviennent des transpondeurs de deux avions très proches l'un de l'autre, en distance ou en azimut, et qui arrivent donc au radar ensemble. Ce phénomène est asynchrone quand la distance entre les deux appareils n'est pas un multiple de la différence de temps entre les impulsions contenues dans leurs réponses. Les diverses impulsions du premier appareil et celles du second ne se superposent pas, mais alternent dans le message reçu. Il est possible de les séparer en les attribuant alternativement à l'un ou l'autre des appareils dans une mémoire. 
+L'enchevêtrement est synchrone dans le cas où la distance entre les deux appareils est un multiple de la différence de temps entre les impulsions contenues dans son message. Les deux messages se superposent alors exactement à partir d'une des impulsions. Il est impossible de savoir à quelle réponse appartiennent les impulsions, et le décodage du message donne un résultat aléatoire. Ces réponses doivent donc être éliminées.
+
+
+== Utilisation des données filtrées ==
+Une fois les données filtrées, elles sont envoyées au centre ayant besoin de ces informations. Elles subissent un traitement qui remplit plusieurs fonctions. La première est d'augmenter la précision des informations en mélangeant les informations provenant de plusieurs radars. En recoupant les informations, on affine la position de l'aéronef. Ensuite une comparaison avec les informations précédentes est effectuée, afin de déterminer la route de l'avion et sa vitesse. Ces informations seront ensuite affichées sur la visualisation radar.
+Le fait qu'un équipement de bord soit nécessaire pour être visualisé rend le radar secondaire impropre à une utilisation militaire. Pour une détection exhaustive, on préfèrera le radar primaire.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+Transpondeur
+contrôle du trafic aérien
+Alphabet aéronautique
+Identification friend or foe
+Automatic dependent surveillance-broadcast (ADS-B)
+
+ Portail de l’aéronautique   Portail de l’électricité et de l’électronique

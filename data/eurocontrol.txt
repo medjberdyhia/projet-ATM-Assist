@@ -1,0 +1,238 @@
+Source : https://fr.wikipedia.org/wiki/EUROCONTROL
+
+EUROCONTROL ou Organisation européenne pour la sécurité de la navigation aérienne est une organisation intergouvernementale européenne, fondée en 1960, dont le siège est situé à Bruxelles.
+Sa mission est d'harmoniser et d'unifier la gestion de la navigation aérienne en Europe, en promouvant un système uniforme pour les usagers civils et militaires, dans des conditions de sécurité maximale tout en minimisant les coûts et les impacts environnementaux.
+L’Organisation compte aujourd'hui 42 États membres.
+
+
+== Mission détaillée ==
+
+
+=== Gestion du réseau européen ===
+Il s'agit des activités de recherche et développement, de coordination des programmes d'investissement et de développement des États membres, de production de normes techniques communes. À ce titre, Eurocontrol participe aux projets SESAR, remplacé en juin 2014 par SESAR2. Ce projet lancé conjointement avec l'Union européenne a pour but de définir en coopération avec toute l'industrie du transport aérien, le futur réseau de gestion du trafic à l'horizon 2024.
+
+
+=== Gestion de certaines fonctions à l'échelle européenne ===
+La CFMU (Central Flow Management Unit) centralise les plans de vols à l'échelle du continent et régule le trafic dans le but de minimiser les retards et de garantir la sécurité des vols. Le SCRR (Service central de redevances de route) collecte une redevance dont le but est de financer l'ensemble du système de gestion de la navigation aérienne des États membres.
+
+
+=== Gestion du centre de Maastricht ===
+Eurocontrol est chargée de la gestion du centre de Maastricht qui contrôle l'espace aérien supérieur du Benelux et d'une partie de l'Allemagne. Deux autres centres devaient ouvrir à Vienne et Budapest (le CEATS) mais ces projets ne verront finalement pas le jour.
+
+
+=== Support technique aux instances de régulation ===
+Eurocontrol prépare les dossiers techniques et les textes des décisions et règlements qui sont pris soit par son organe suprême, soit par l'Union européenne selon ses procédures propres.
+L'agence œuvre pour cela en collaboration étroite avec les États membres, les prestataires de services de navigation aérienne, les usagers civils et militaires de l'espace aérien, les aéroports, le secteur aérospatial et les institutions européennes.
+
+
+== Composition ==
+
+L'organisation Eurocontrol est composée de ses États membres et d'une agence, dirigée par un directeur général, Eamonn Brennan depuis le premier janvier 2018. L'agence, située à Bruxelles (Haren), comprend des antennes en Europe :
+
+le CFMU (— Flight Planning — qui s'occupe des plans de vol) et le SCRR à Bruxelles, en Belgique.
+un pôle d'innovation (EIH) situé au Plessis Pâté (souvent indiqué de façon érronnée comme étant à Brétigny-sur-Orge), en France.
+un institut de formation (ALC) à Luxembourg.
+un centre de contrôle à Maastricht, aux Pays-Bas.
+
+
+== Statut ==
+Eurocontrol est fondée sur un traité international, la convention Eurocontrol, et pour les redevances de route, sur un Accord Multilatéral. L’organisation est financée par une contribution des États membres ; le SCRR, pour sa part, prélevant une redevance administrative sur les redevances qu’il collecte. Son organe suprême est la commission, qui dispose du pouvoir réglementaire mais sans qu’aucun mécanisme judiciaire ne permette de sanctionner cette législation.
+Une convention révisée est en cours de ratification et il a été décidé de l’appliquer partiellement avant sa mise en œuvre. Elle apporte les changements principaux suivants :
+
+Le directeur général a un droit d’initiative.
+Un conseil provisoire remplace l’ancien comité de gestion, qui est, en fait, le vrai organe décisionnaire de l’organisation.
+L'Union européenne, par la vertu d’un protocole additionnel, devient membre de l’organisation.
+Une commission d’examen des performances et une commission de réglementation de la sécurité sont mises en place. Ces deux organes semi-indépendants sont très respectés et produisent un travail de haute qualité.
+
+
+== Histoire ==
+La convention internationale de coopération pour la sécurité de la navigation aérienne « EUROCONTROL » a été signée le 13 décembre 1960 par 6 Etats membres : France, Allemagne, Royaume-Uni, Benelux. Cette convention a été ratifiée le 1er mars 1963 . Le souhait était d'unifier la gestion du trafic aérien dans l’espace supérieur. Le Centre de Maastricht est le témoin de cette ambition, vite torpillée par les États membres, qui ont préféré garder le contrôle total de la prestation de service.
+En janvier 1967, le centre expérimental de Brétigny-sur-Orge est créé par René Bulin. Il sera successivement dirigé par René Bulin, Georges Maignan, et Jean-Marc Garot.
+En octobre 1969, le centre de formation IANS (Institute of Air Navigation Services) est créé à Luxembourg.
+La crise de capacité des années 1980-1990 a donné à Eurocontrol l’occasion de développer ses activités au titre du CFMU et de la gestion du réseau paneuropéen. Mais l’irruption d’un nouvel acteur, la Commission européenne, et du programme Ciel unique européen bouleverse les missions de l’organisation.
+La Commission a créé une agence, l’Agence européenne de la sécurité aérienne, qui à terme devrait reprendre les fonctions de régulation de la navigation aérienne en Europe. La convention révisée ne sera sans doute pas ratifiée par tous les États, car le mouvement de privatisation des prestataires nationaux de services de navigation aérienne remet profondément en cause le rôle de l’agence dans la gestion du réseau, des fonctions paneuropéennes et dans la gestion du Centre de Maastricht. Les projets SESAR puis SESAR2 font d’Eurocontrol un acteur parmi d’autres dans le développement stratégique et lui retire sa fonction de chef de file de cette coordination.
+
+
+== Gestion du réseau paneuropéen ==
+Le ciel européen fait face à une demande de trafic toujours croissante pour des ressources déjà tendues, en particulier au niveau des aéroports, dont la gestion reste peu efficace car fragmentée au niveau national.
+La gestion du réseau ATM paneuropéen est un concept large qui recouvre :
+
+la recherche et développement (R&D) ;
+la coordination civile-militaire ;
+la coordination des mesures de mise en œuvre des grands projets européens ;
+la définition de méthodes et normes communes ;
+la formation, essentiellement la formation de formateurs.
+le tout avec pour objectifs d’assurer la sécurité, la création de capacité, l’efficacité économique et l’amélioration des performances environnementales du système ATM (Air Traffic Management) européen.
+Un service appelé STATFOR – Statistics and Forecast Service produit les données nécessaires à l’analyse des problèmes et des tendances, à partir d’une banque de données qui centralise les données de vols et les informations sur la structure de l’espace aérien (PRISME).
+Les projets et activités au titre de la gestion du réseau sont approuvés par la Commission d’Eurocontrol, après avoir été évalués par de nombreux groupes de travail qui associent les États, les fournisseurs de service, les autorités militaires, les usagers et dans certains cas, l’industrie aéronautique. Le financement est assuré par la contribution des États au budget de l’agence.
+Les grands programmes européens sont pilotés à la fois par Eurocontrol en tant que gestionnaire de l’ECIP – European Convergence Implementation Plan, qui permet de suivre les efforts des différents États et fournisseurs de service pour la mise en œuvre des mesures décidées au niveau européen et par Eurocontrol en tant que gestionnaire de projets.
+Les principaux projets (il y en a plus d’une cinquantaine) sont :
+
+le développement de l’efficacité de la gestion centralisée des flux de trafic par le CFMU ;
+le suivi de la mise en œuvre des projets déjà livrés (tels que RVSM – Reduced Vertical Separation Minima, 8.33 kHz – gestion optimisée des fréquences radio, EAD – European Aeronautical Information Services Database, ARTAS – ATM surVeillance Tracker and Server, CDM – Airport Collaborative Decision Making) ;
+la mise en place des projets en cours (CASCADE – qui met en œuvre la technologie ADS-B, DMEAN – qui optimise les ressources technologiques et organisationnelles du réseau ATM en place, SWIM et CDM – qui optimisent les flux d’information) ;
+le développement de nouveaux concepts (ERASMUS – résolution de conflits via des ajustements dits « subliminaux », EVAIR – Eurocontrol Voluntary ATM Incident Reporting qui centralise les rapports d’incidents ATC dans le but de les analyser et de les pallier dans le cadre de l’European Safety Program).
+La gestion proprement dite du réseau de routes aériennes permet d’optimiser le dessin des routes et celui du découpage en secteurs de contrôle. Cette gestion cherche à résoudre les goulots d’étranglement, à équilibrer les flux de trafic par plage horaire, à définir les phases de transition d’une structure d’espace à une autre tout en respectant les contraintes liées aux besoins militaires. Si la gestion de ce réseau est coordonnée par Eurocontrol pour toute la zone ECAC – European Civil Aviation Conference (plus étendue que celle strictement couverte par ses États membres), la mise en œuvre en reste au niveau des États concernés.
+Sur le plan institutionnel, Eurocontrol reconnaît que la Commission européenne définit les grandes orientations stratégiques et le cadre réglementaire de haut niveau qui s’applique à l’ATM européen, aux États de l’EEE (Espace économique européen) et aux États associés dans le cadre d’accords spécifiques. En pratique, les États membres d’Eurocontrol, mais pas de l’Union Européenne, s’inscrivent volontairement dans le cadre du programme Ciel Unique.
+Eurocontrol est alors l’organisation technique qui, au niveau du continent européen, coordonne les activités des États pour atteindre les objectifs fixés. L’Agence Eurocontrol redéfinit ses activités de gestion du réseau paneuropéen sous le titre CND – Cooperative Network Design pour en assurer la totale conformité avec le projet SESAR, tant au niveau de la R&D qu’au niveau de l’exécution du Plan directeur en cours de définition par la première phase de ce projet. Cette coordination est facilitée par le siège qu’Eurocontrol a, en tant que membre fondateur, dans l’entreprise commune SESAR (JU - Joint Undertaking).
+
+
+== Blocs d’espace aérien fonctionnels ==
+
+Partant du constat que la fragmentation excessive du système de contrôle aérien induit des coûts élevés (une étude d’Eurocontrol montre que le système ATC européen coûte plus du double de celui des États-Unis) et crée des inefficacités dans la gestion du trafic (basse productivité des services ATC, trajectoires de vol sub-optimales, risques de sécurité dus à des procédures non harmonisées), le programme Ciel Unique vise à améliorer la coopération entre les fournisseurs de service ATC et, à terme, d’en permettre la consolidation.
+Le règlement européen 551/2004 du 10 mars 2004 crée l’obligation de mettre en place une région unique européenne d’information de vol pour l’espace supérieur (au-dessus du niveau de vol 285) et d’organiser cet espace en blocs d’espace aérien fonctionnels (ou FAB Functional Airspace Bloc). La reconfiguration de l’espace aérien devrait être fondée sur les besoins opérationnels, indépendamment des frontières existantes, ce qui constitue une innovation majeure par rapport à la situation actuelle où chaque État gère son propre ciel et où les délégations d’espace sont très limitées (accords entre États permettant pour des raisons opérationnelles à un fournisseur de service de contrôler des routes dans l’espace d’un autre État).
+Dans l’optique du règlement, les blocs d’espace aérien fonctionnels :
+a) sont étayés par un dossier de sécurité ;
+b) permettent une utilisation optimale de l’espace aérien, compte tenu des courants de trafic aérien ;
+c) sont justifiés par la valeur ajoutée globale qu’ils apportent, y compris l’utilisation optimale des ressources techniques et humaines, sur la base d’analyses coût/efficacité ;
+d) assurent un transfert fluide et souple de la responsabilité du contrôle de la circulation aérienne entre les unités des services de la circulation aérienne ;
+e) assurent la compatibilité entre les configurations des espaces aériens supérieur et inférieur ;
+f) respectent les conditions découlant des accords régionaux conclus au sein de l’OACI ;
+g) et respectent les accords régionaux, en particulier ceux concernant les pays européens non membres de l’UE.
+L’approche retenue pour la mise en place des FAB est dite bottom-up (approche ascendante), c’est-à-dire que l’initiative en est laissée aux États qui doivent les bâtir en coopérant entre eux et avec Eurocontrol.
+En réalité, la mise en place des FAB se heurte aux mêmes obstacles et aux mêmes réticences que ceux qui ont empêché Eurocontrol de jouer un rôle fédérateur plus affirmé en Europe. À ce jour (mars 2008), aucun FAB n’a été mis en place. Les études de faisabilité en cours sont :
+
+FAB Europe Central : France, Benelux, Allemagne, Suisse avec le Royaume-Uni en observateur ;
+SEE FABA (South East Europe FAB Approach) : Albanie, Bosnie-Herzégovine, Bulgarie, Croatie, Monténégro, Roumanie, Serbie, Macédoine avec l’appui de la Grèce et de l’Italie et de l’Islande qui gère les services ATC de Pristina au titre de l’UNMIK (Mission d’administration intérimaire des Nations unies au Kosovo) ;
+CEATS FAB (Central European Air Traffic Services) : Autriche, Bosnie-Herzégovine, Hongrie, République slovaque, Slovénie, République tchèque, Croatie ;
+NUAC : Danemark et Suède ;
+BUL-ROM : Bulgarie et Roumanie ;
+Irish-Iceland : Irlande, Islande ;
+Anglo-Irish : Royaume-Uni, Irlande ;
+Blue Med : Chypre, Grèce, Italie, Malte, Tunisie.
+Face à l’avancement insuffisant de ces projets ainsi qu’à leur contenu insatisfaisant, la Commission Européenne envisage un second paquet législatif, qui serait élaboré en 2008, pour accélérer l’intégration du ciel européen. Dans ce contexte, l’appui d’Eurocontrol sera requis pour assister les États afin de parvenir à des résultats concrets et mesurables.
+(sources : texte cité + communication de la Commission COM(2007)101 du 15.03.2007)
+
+
+== Projet SESAR ==
+
+Le projet SESAR (Single European Sky ATM Research) est le pilier technologique du programme Ciel Unique ou SES (Single European Sky). Il vise à doter l’Europe d’une infrastructure ATC (Air Traffic Control) performante pour les 30 années à venir. Ce projet est coordonné avec le projet NextGen de la Federal Aviation Administration (FAA) qui a des ambitions identiques pour les États-Unis.
+SESAR cherche à définir un système de gestion du trafic aérien capable d’en assurer la fluidité et la sécurité et à mettre en place le programme de modernisation des infrastructures pour y parvenir.
+Le projet SESAR veut :
+
+remédier à l’approche fragmentée de la gestion de l’ATC par les différents pays de l’UE ;
+synchroniser les plans d’action des différents intervenants et optimiser les ressources nécessaires en les coordonnant au niveau européen.
+SESAR comprend trois phases principales : 
+
+phase de Définition (2005-2008), lancée officiellement le 17 novembre 2005 ;
+phase de Développement (2008-2016) ;
+phase de Réalisation (2014-2020).
+Pour gérer la phase de développement, un organe de coordination temporaire a été créé le 27 février 2007 :  l'entreprise commune SESAR (SESAR JU). Cette entreprise commune trouve sa base légale sous l’article 171 du Traité de l’UE. Elle est composée de deux membres fondateurs : la Commission Européenne et Eurocontrol. De nouveaux membres désireux de participer à cet organe peuvent y adhérer selon des règles strictes visant à empêcher des conflits d’intérêt dans les marchés publics.
+Le but du SESAR JU est de coordonner les efforts de recherche et de développement du projet SESAR dans le cadre du Plan directeur ATM (ATM Master Plan) défini par la première phase du projet, avec pour objectif de rationaliser l’emploi des ressources financières et techniques des partenaires impliqués dans le projet SESAR.
+Le projet SESAR2 succède et étend le projet SESAR jusqu'à 2024.
+
+
+== Gestion des flux de trafic ==
+Créé en 1988, à la demande de l’ECAC (European Civil Aviation Conference), à la suite de la crise de capacité des années 1980 et des délais induits dans les aéroports européens, le CFMU (Central Flow Management Unit) a pour mission de gérer de façon centralisée la planification des vols en Europe pour éviter la congestion de l’espace aérien et pour optimiser l’emploi de la capacité disponible. Il est opérationnel depuis mars 1996.
+Pour mémoire, l’OACI définit l’ATM (Air Traffic Management) comme :  
+
+la gestion de l’espace aérien et du réseau de route (Airspace Management - ASM), tâche coordonnée par Eurocontrol et réalisée par les États ;
+la gestion des flux de trafic (ATFM), tâche centralisée par le CFMU ;
+le contrôle en vol (Air Traffic Control - ATC), tâche réalisée par les centres de contrôle en route (ACC), les approches (APP), et les tours de contrôle (TWR).
+Le CFMU centralise en une seule banque de données :
+
+les plans de vols (y compris sous forme de plans de vols répétitifs, déposés une fois pour toutes au début de chaque saison) (système IFPS - Single Flight Plan repository) ;
+les données d’environnement : cartographie des routes, des points de passage et découpage en secteurs (un secteur est contrôlé par une position – un contrôleur – dans un centre de contrôle ATC). Ce découpage peut varier plusieurs fois par jour.
+Le CFMU supervise aussi la fonction EAD (European AIS Database – service d’informations aéronautique) sous-traitée à un consortium, le GroupEAD.
+La planification (système ETFMS – Enhanced Tactical Flow Management System) consiste à :
+
+Protéger les secteurs, c’est-à-dire éviter qu’en un secteur il y ait à un moment donné plus d’aéronefs qu’un contrôleur ne puisse prendre en charge de façon sûre.
+Planifier les vols de façon optimale en leur attribuant une route et une heure de décollage (le créneau, ou slot) en sachant que le pilote peut accepter ou refuser cette planification. En cas de refus, une autre proposition est faite, au risque de perdre le slot, c’est-à-dire de subir un délai au sol.
+Distribuer les plans de vol acceptés aux centres de contrôle (ACC). Des modifications de ces plans en vol restent possibles.
+La gestion des flux et de la capacité se fait en trois étapes :
+
+planification stratégique à long terme pour équilibrer la demande et les capacités ;
+planification prétactique (pour le jour suivant) ;
+planification tactique (équilibrage en temps réel de l’offre et de la demande), y compris la gestion de crise (coordination et résolution des conflits en cas d’événement imprévus de toute sorte (grèves, météo, contraintes de sécurité …).
+Les principales compagnies aériennes peuvent accéder au système en ligne, pour gérer leurs plans de vols et y introduire les modifications de dernière minute (CDM - Collaborative Decision Making, associant aussi les centres de contrôle).
+Le CFMU a eu un impact positif sur la réduction des délais, malgré une augmentation du trafic. Il a aussi prouvé sa capacité à gérer les situations de crise, l’exemple le plus frappant étant la suspension du trafic vers les États-Unis à la suite des attentats du 11 septembre 2001.
+En 2007, une journée de trafic moyenne en Europe comprenait 27 676 vols (+ 5,3 % par rapport à 2006). Le délai moyen par vol durant l’été 2007 a été de 2 minutes (1,5 minute en excluant les grèves et les contraintes météo) alors que l’objectif est d’atteindre un délai d'une minute. Mais ce résultat correspond cependant à une augmentation réelle de capacité due aux mesures de planification de 10 % sur 5 ans, sans laquelle les délais auraient explosé.
+
+
+== Redevances de route ==
+Eurocontrol gère un système régional de collecte des redevances de route, en conformité avec la Convention de Chicago (art.15) et les recommandations de l’OACI (Document 9082/7 et Document 9161/3).
+Le règlement de la Commission de l’Union européenne 1794/2006 et les Conditions d’Application du système Eurocontrol de redevances de route distinguent :
+
+les redevances de route, couvrant les services de navigation aérienne
+les redevances pour services terminaux, couvrant les services de contrôle et d’information de vol d’aérodrome ainsi que les services de circulation aérienne liés à l’approche et au départ des aéronefs.
+Pour mémoire, les coûts aéroportuaires font l’objet de redevances aéroportuaires, ici hors sujet.
+Les coûts des services de navigation aérienne comprennent la fourniture des services proprement dits (ATC, COM, NAV, MET, AIS, …), les coûts des organes de réglementation et régulation et ceux générés par certains accords internationaux (voir la définition des services sur la page contrôle du trafic aérien).
+Les assiettes de coûts sont établies selon une méthodologie décrite dans les Principes d’établissement de l’assiette, un règlement Eurocontrol qui vise à s’assurer que seuls les coûts des services de navigation aérienne sont collectés, quoiqu’une juste rémunération du capital soit permise et qu’un régime particulier soit applicable aux fournisseurs de services sous régulation économique (un profit ou une perte étant alors possible). Un mécanisme correcteur permet d’ajuster a posteriori assiettes de coûts et redevances perçues afin d’éviter tout sur ou sous-recouvrement. Les règlements européens prévoient des dispositions pour assurer la transparence comptable du système, la consultation des usagers (règl. 1794/2006) et une procédure de contrôle a posteriori de la conformité des assiettes (art 16 du règl. 550/2004). Un organe d’Eurocontrol où siègent les États, le Comité élargi pour les Redevances de Route supervise le système, assure la transparence et organise la consultation avec les usagers.
+En vertu de l’Accord Multilatéral pour les Redevances de Route, Eurocontrol calcule et collecte une redevance unique, établie en son nom, et en reverse le fruit aux États. L’organe chargé de cette tâche, le Service Central des Redevances de Route, prélève en sus une redevance administrative pour couvrir ses frais.
+En vertu d’accords spécifiques avec les États (Croatie, Danemark, France, Hongrie, Italie, Irlande, Lituanie, Moldavie, Pays-Bas, Slovénie), Eurocontrol peut se voir confier la collecte des redevances pour services terminaux (collectées directement par les États, si ce n’est pas le cas).
+D’autre part, Eurocontrol peut conclure des accords avec des États non-membres pour fournir les mêmes services de collecte (Biélorussie, Égypte, Maroc, Ouzbékistan).
+La redevance est calculée en fonction de la distance parcourue et de la masse de l’aéronef (masse maximale au décollage, paramètre représentant la capacité d’emport). Des exonérations de la redevance sont prévues (aéronefs de moins de 2 tonnes, vols militaires ou d’État, …).
+En 2007, l’assiette cumulée se montait à 6,1 milliards d’euros pour 9,9 millions de vols et le taux de recouvrement de la redevance atteignait 99,76 %, collectée auprès de plus de 5000 usagers (compagnies aériennes principalement).
+(Sources : textes cités + site web d'Eurocontrol)
+
+
+== Examen des performances ==
+En vertu de l’art 7.3 de la Convention Eurocontrol révisée (mais non ratifiée), la Commission d’Eurocontrol a créé, en 1998, une Commission d’Examen des Performances (PRC – Performance Review Commission), composée de 12 membres agissant de façon indépendante.
+Cette Commission produit des rapports (que l’on peut télécharger du site web d’Eurocontrol) à partir de données transmises par les États et les fournisseurs de service sur base volontaire mais aussi à partir de la banque de données d’Eurocontrol qui centralise toutes les données aéronautiques collectées par l’agence (base de données PRISME).
+La Commission européenne prépare un règlement d’application qui donnerait une force obligatoire à la fourniture de données par les États aux fins de l’examen des performances.
+Les rapports de la PRC servent de base aux réflexions concernant le développement du programme Ciel Unique et apportent une analyse factuelle des forces et des faiblesses du système européen. Certains rapports sont publiés régulièrement :
+
+Performance Review Reports (PPR) ;
+ATM Cost-Effectiveness (ACE) ;
+Air Navigation Service Providers Fact Sheets 2005.
+Autres principaux rapports :
+
+PRC Evaluation of Civil/Military Airspace Utilisation ;
+Evaluation of the Impact of the Single European Sky Initiative on ATM Performance ;
+Report on the impact of fragmentation in European ATM/CNS ;
+Report on Punctuality Drivers at Major European Airports ;
+A comparison of performance in selected US and European En-route Centres ;
+Progress towards Cost Benchmarking of the European ATM system ;
+The PRC´s European ATM Performance Measurement System.
+
+
+== Activité réglementaire ==
+Sous l’égide de la Convention Eurocontrol révisée, signée en 1997 mais non ratifiée, Eurocontrol peut adopter des règlements ayant force obligatoire pour les États membres, mais sans sanction judiciaire.
+Une procédure appelée Eurocontrol Notice of Proposed Rulemaking (ENPRM) permet d’adopter ces textes, qui sont finalement approuvés par la Commission d’Eurocontrol.
+En sus, l’agence peut produire des documents n’ayant pas valeur de règlement pour aider à leur application : les spécifications et les guides.
+Dans le cas spécifique des règlements concernant la sécurité, la Conférence européenne de l’aviation civile (ECAC) a décidé, en 1997, d’un mécanisme particulier fondé sur une instance indépendance. La Convention révisée a créé une Safety Regulation Commission (SRC) indépendante, dont la mission est de produire des rapports et des avis pour améliorer la sécurité de l’ATM et pour proposer à la Commission d’Eurocontrol d’adopter des règlements nommés Eurocontrol Safety Regulatory Requirements (ESARR). La Commission Européenne, reconnaissant la valeur de ces textes, a entrepris d’en transformer certains en règlements européens afin de leur donner une réelle force contraignante. À terme, l’EASA devrait reprendre cette activité.
+D’autre part, dans le cadre de l’article 8 du règlement 549/2004, la Commission européenne recourt à Eurocontrol pour préparer ses règlements d’application du programme Ciel unique. Dans ce contexte, sur la base d’un mandat spécifique, Eurocontrol est chargé des étapes initiales de la préparation des textes (Étude d’impact et consultation). À partir de la proposition d’Eurocontrol, la Commission termine la procédure selon ses règles propres (dites de Comitologie, selon l’article 5 du même règlement) pour adopter finalement le règlement d’application dans le cadre juridique communautaire.
+La plus grande partie de l’activité réglementaire d’Eurocontrol est effectuée dans le cadre de cette procédure.
+
+
+== Participants et dates d'adhésion ==
+42 États sont membres de Eurocontrol, 2 sont associés et 19 autres ont signé des accords de partenariat avec l'organisation.
+Les États membres de l'Union européenne ont signé le 8 octobre 2002 un protocole sur l'adhésion de l'Union à la Convention Eurocontrol révisée. Cette convention est déjà partiellement appliquée, même si elle n'est pas encore ratifiée[réf. nécessaire].
+
+
+=== États membres ===
+
+
+=== États membres sans droit de vote ayant signé un accord global ===
+ Maroc : 1er mai 2016
+ Israël : 2 juin 2016
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Agence de l'Union européenne pour la sécurité aérienne
+Ciel unique européen
+Contrôle de la circulation aérienne
+Gestion du trafic aérien
+Gestion d'aire de trafic
+Organisation européenne pour l'équipement de l'aviation civile
+
+
+=== Liens externes ===
+
+Agence : Siège d'Eurocontrol (Belgique)
+SESAR : Projet SESAR
+Ciel Unique : Portail de l'Union européenne
+EASA : Site de l'EASA, agence de l'Union européenne
+OACI : Organisation de l'aviation civile internationale
+ECAC : Conférence européenne de l'Aviation civile
+GroupEAD : GroupEAD Europe
+Eurocontrol Experimental Centre Coordinates : 48° 36′ 05″ N, 2° 20′ 49″ E
+Voir article 'Leçons pour la construction européenne : Le cas du ciel unique européen' dans GRASPE n° 17
+
+ Portail de l’aéronautique   Portail de l’Europe

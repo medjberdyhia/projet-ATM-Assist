@@ -1,0 +1,53 @@
+Source : https://fr.wikipedia.org/wiki/Transpondeur
+
+En télécommunications, un transpondeur, de l'anglais transponder ou en français « répéteur » peut désigner :
+
+un canal exploitant une modulation à haute fréquence ; le terme français répéteur est notamment utilisé pour désigner les émetteurs et récepteurs / démodulateurs, plus particulièrement en télédiffusion par satellite.
+un équipement électronique qui capte, traite, amplifie et retransmet des signaux sur une ou plusieurs fréquences différentes de celle reçue ;
+un équipement électronique automatisé qui transmet un message prédéterminé, en réponse à un signal reçu prédéterminé ;
+
+
+== En aéronautique ==
+
+
+=== Principe ===
+
+Le transpondeur d'un aéronef est l'équipement embarqué qui permet aux radars secondaires des stations de contrôle du trafic aérien au sol de déterminer la position — ou géolocalisation — de l'avion dans l'espace surveillé. Il donne également une information de position aux autres avions se trouvant à proximité (40 milles nautiques, 8 700 pieds au-dessus ou en dessous) si ces derniers sont équipés du système TCAS.
+
+
+=== Fonctionnement ===
+Le radar secondaire du contrôle aérien émet un signal d'interrogation constitué d'une impulsion codée sur la fréquence 1 030 MHz, à laquelle le transpondeur répond par une autre impulsion codée sur la fréquence 1 090 MHz. La réponse décodée apparaît à l'écran radar au sol, sous forme d'un plot, accompagné d'un code octal à quatre chiffres. La fonction « ident » du transpondeur  émet un code spécifique qui fait apparaître en gras, l'écho associé affiché à l'écran radar du contrôleur.
+
+
+=== Normes ===
+L'OACI définit et préconise plusieurs normes adoptées pour les transpondeurs aéronautiques :
+
+transpondeur Mode A : dont le codage ne comprend pas l'identification de l'aéronef mais un code sélectionné depuis la cabine (un code défini par le contrôleur, transmis par radio et qui se situe entre 0000 et 7777, soit : quatre caractères en octal — c'est-à-dire en base 8 — ce qui correspond à 12 bits d'information). Le radar au sol envoie un signal de réveil rythmique, ce qui provoque l’émission de ce codage parmi tous les avions qui se trouvent dans ce secteur du radar. Ceci est indiqué dans la cabine par un clignotement court de la lampe « ident » ;
+transpondeur mode C : Même codage que le Mode A, mais comprenant en plus l'altitude-pression de l'aéronef ;
+transpondeur mode S : (sélectif, obligatoire en France depuis le 31 mars 2007 pour les vols IFR, et depuis 2014 dans certains espaces et sur certains itinéraires pour les vols à vue) dont le codage 56 et 112 bits permet au radar d'interroger chaque aéronef séparément. Beaucoup plus précis (la transmission de l'altitude pouvant se faire par incréments de 25 pieds contre 100 pour le mode C) il permet également la transmission d'autres types de données, comme le numéro de vol de l'aéronef et l'altitude de vol sélectionnée par le pilote. La sélectivité joue un rôle dans les espaces denses, ou le contrôleur peut « interroger » de manière sélective un ensemble d'avions avec son radar secondaire.
+
+
+=== Règlementation ===
+L'OACI recommande l'utilisation obligatoire d'un transpondeur pour les vols évoluant en zone de classe D, C, B et A ainsi que pour les vols IFR effectués dans n'importe quelle zone.
+En France, le transpondeur est obligatoire à bord des aéronefs volant dans les espaces A, C et D ainsi que dans certaines zones et sur certains itinéraires publiés. Des dérogations sont possibles, si elles sont approuvées par l'autorité compétente. Les aéronefs équipés de transpondeur doivent le mettre en route dès qu'ils sont en mouvement, dans n'importe quel espace, sauf les planeurs qui sont autorisés à le couper pour économiser leurs batteries.
+
+
+== Voir aussi ==
+Répéteur
+
+
+=== Articles connexes ===
+Transpondeur radar
+Racon
+Transpondeur de recherche et sauvetage
+AIS
+Radiocommunication aéronautique
+Puce sous-cutanée
+
+
+== Notes et références ==
+
+
+== Liens externes ==
+
+ Portail des transports   Portail de l’aéronautique   Portail des télécommunications

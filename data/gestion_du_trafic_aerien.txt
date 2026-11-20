@@ -1,0 +1,54 @@
+Source : https://fr.wikipedia.org/wiki/Gestion_du_trafic_aérien
+
+La gestion du trafic aérien (ou ATM, de l'anglais air traffic management) est l'ensemble des activités menées pour assurer la sécurité et la fluidité du trafic aérien. Apparue dans les régions du monde au trafic le plus dense afin de gérer les problèmes de congestion du trafic, la gestion du trafic aérien inclut :
+
+les services de la circulation aérienne (ATS), comprenant les services du contrôle aérien,
+la gestion des flux de trafic et des capacités (ATFCM), et
+la gestion de l'espace aérien (ASM).
+Les activités de gestion du trafic aérien sont menées à des échelons locaux ou nationaux, voir internationaux. Historiquement menée par les États, la gestion du trafic aérien est assurée par des prestataires de service, qui peuvent être publics ou privés.
+
+
+== Définition réglementaire ==
+L'Organisation de l'aviation civile internationale définit dans son document PANS/ATM (doc. 4444) la gestion du trafic aérien comme la gestion dynamique intégrée de la circulation aérienne et de l’espace aérien, comprenant les services de la circulation aérienne [ATS], la gestion de l’espace aérien [ASM] et la gestion des flux de trafic [ATFM]
+
+
+== En Europe ==
+A la fin des années 2010, le ciel européen est traversé par en moyenne 22 000 aéronefs par jour (année 2023), avec plusieurs zones d'engorgement de trafic, la plus importante étant située au-dessus du Bénélux et de l'Allemagne, au croisement d'importants flux de trafic situés entre l'Océan Atlantique Nord et le Sud-Est de l'Europe d'une part, et entre la Scandinavie et l'Europe du Sud-Est d'autre part.
+La mise en place du Ciel unique européen, s'axe ainsi :
+
+les Services de la circulation aérienne ou ATS (Air Traffic Services), qui comprend entre autres le contrôle aérien, est majoritairement géré par des organismes nationaux (militaires, publics ou privés) ;
+les services ATFCM (Air Traffic Flow and Capacity Management), gestion anticipée des flux et de la capacité du trafic, qui permet de prévenir toute congestion et d'optimiser l'utilisation des secteurs de contrôle aérien, est effectuée de façon centralisée par le Network Manager, gestionnaire du réseau d'Eurocontrol via le système ETFMS ;
+l'ASM (AirSpace Management) ou gestion de l'espace aérien, partage flexible de l'espace aérien répondant à la fois aux besoins du trafic civil et aux activités militaires, qui est coordonné au niveau des États mais également au niveau du Network Manager d'Eurocontrol.
+
+
+== En France ==
+La direction générale de l'Aviation civile (DGAC), via sa direction des services de la Navigation aérienne (DSNA), est responsable de la gestion du trafic aérien en France.
+
+
+== Impact environnemental ==
+Selon le GIEC (1999) une meilleure gestion du trafic aérien (au sens large, c'est-à-dire incluant une attente réduite avant l'atterrissage, des itinéraires plus efficaces et des profils de vol optimisés) permettrait d'économiser de 8 à 18 % de kérosène (et donc de moins polluer).
+
+
+== Références ==
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+Contrôle du trafic aérien
+Gestion d'aire de trafic
+Eurocontrol
+Projet SESAR
+Next Generation Air Transportation System
+Agence pour la sécurité de la navigation aérienne en Afrique et à Madagascar
+
+
+=== Liens externes ===
+Eurocontrol
+(en) What is ATM sur le site d'Eurocontrol
+Direction générale de l'aviation civile (DGAC)
+[vidéo] Visualisation d'une journée de trafic au-dessus de l'Europe sur YouTube
+Service afis
+
+ Portail de l’aéronautique

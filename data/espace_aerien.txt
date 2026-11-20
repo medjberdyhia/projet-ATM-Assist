@@ -1,0 +1,110 @@
+Source : https://fr.wikipedia.org/wiki/Espace_aérien
+
+L'espace aérien est organisé pour fournir une sécurité optimale à tous les aéronefs qui y évoluent. L'espace aérien est divisé en zones contrôlées et en zones non contrôlées.
+
+
+== Découpage de l'espace aérien ==
+
+Les territoires nationaux sont découpés en régions d'information de vol (FIR, flight information region). Notons que l'Australie contrôle le plus vaste espace aérien au monde couvrant 53 millions de km2 soit 11 % de la superficie de la Terre.
+En espace aérien inférieur français, les FIR vont du sol jusqu'au niveau de vol 195 (inclus. FL 195 : flight level 195, c'est-à-dire 195 x 100 = 19 500 pieds au-dessus du niveau de pression 1 013 hPa, soit environ 5 800 m d'altitude). Les FIR sont gérées par un centre de contrôle. En France, il y a un centre en route de la navigation aérienne (CRNA) par FIR.
+En espace aérien supérieur, il y a une seule région en France, l'UIR. Elle va du niveau FL 195 (exclu) à illimité.
+Verticalement, l'espace est divisé en tranches :
+
+Sous le niveau de vol 115 (environ 3400 m)
+Dans un espace aérien réglementé (CTR), le contact radio est obligatoire.
+Dans les zones d'approche des aéroports (TMA), l'espace est contrôlé mais les services du contrôle peuvent être rendus aux VFR (classes A, B, C ou D) ou non (classe E).
+hors des TMA et CTR, l'espace aérien est non contrôlé, et le contact radio n'est pas obligatoire (classe G par défaut).
+La zone de niveaux de vol ]115, 195] ~ ]3400 m, 5800 m] est appelée l'espace aérien inférieur (LTA, Lower Traffic Area). C'est un espace contrôlé
+principalement de classe D : contact radio obligatoire.
+de classe E au-dessus des Alpes, des Pyrénées et de la haute mer (au-delà de 12 NM des côtes), afin de permettre aux planeurs d'entrer dans cet espace sans contact radio
+La zone de niveaux de vol ]195, 660] ~ ]5800 m, 20000 m] est appelée l'espace aérien supérieur (UTA, Upper Traffic Area). C'est un espace contrôlé de classe C depuis novembre 2004. En résumé, il est réservé aux aéronefs en régime de vol aux instruments (IFR) et à certains VFR sur réservation de zone.
+Au-dessus de 20 000 m, l'espace aérien est non contrôlé de classe G
+
+
+== Espaces aériens contrôlés ==
+
+Il existe des espaces contrôlés de taille plus petite, pour permettre de gérer le trafic aérien aux abords des aérodromes :
+
+la zone de contrôle terminale (CTR, control zone), souvent de forme cylindrique, centrée sur un aérodrome important, qui permet de gérer les décollages et atterrissages ainsi que les circuits de piste. Elle a une hauteur faible (généralement 500 mètres de hauteur) et démarre au sol.
+la région de contrôle terminale (TMA, terminal manoeuvring area), de plus grande taille qui chapeaute bien souvent une ou plusieurs CTR, qui permet de protéger les trajectoires de départ et d'arrivée d'un aéroport, ou de plusieurs aéroports (exemple TMA de Paris).
+la voie aérienne AWY (airway) relie les TMA entre elles.
+Ces espaces sont gérés par les services ATS, (air traffic services), en français service du trafic aérien.
+Dans certains pays, existent encore les ATZ (aerodrome traffic zone) qui correspondent sensiblement à une CTR de classe D.
+Une classe d'espace aérien est attribuée à chacun de ces espaces en fonction de l'importance du trafic IFR et VFR et du besoin d'une plus ou moins grande ségrégation des différents flux de trafic.
+En dehors de ces zones, et en dessous de la LTA, l'espace aérien est non contrôlé. Les aéronefs utilisent le principe « voir et éviter ».
+En France, les modifications permanentes de ces espaces (contours, planchers, plafonds ou classe d'espace aérien) sont décidées (et négociées) deux fois par an par les CRG (comités régionaux de gestion de l'espace aérien), instances mixtes civile-militaire au nombre de quatre (NO, NE, SO et SE).
+Au préalable, les CCRAGALS (commissions consultatives régionales de l'aviation générale et de l'aviation légère et sportive) s'assurent que les usagers de l'espace aérien ont bien été consultés concernant les changements en basse couche (sous le niveau de vol 115). Il y a un CCRAGALS dans chaque DSAC (direction de la sécurité de l’aviation civile).
+
+
+== Zones à statut particulier ==
+Ces zones sont beaucoup utilisées par les militaires pour protéger leurs évolutions, mais il en existe quelques-unes pour des besoins civils.
+Il existe trois types de zones :
+
+
+=== Zones dangereuses (D) ===
+Les zones D, dangereuses, (de l'anglais Dangerous) définies pour annoncer un danger permanent ou à certaines heures pour les aéronefs. La pénétration dans la zone n'est pas interdite même en cas d'activité. Il s'agit par exemple, de champs de tir militaires ou de zones de barrage en montagne avec de nombreux câbles (barrage de Génissiat…).
+À ne pas confondre avec l'espace de classe D.
+
+
+=== Zones réglementées (R) ===
+Les zones R, réglementées, (de l'anglais Restricted) définies pour protéger une zone, principalement d'évolution d'avions militaires. En France, il existe un réseau très basse altitude (RTBA) parcouru à très grande vitesse. Sinon chaque base aérienne possède ses zones où ses avions peuvent s’entraîner. Ces zones peuvent être actives ou non, l'information est donnée par notam ou par téléphone.
+Si la zone est active, selon les zones et en fonction de la règle de vol utilisée, la pénétration est :
+
+soit interdite (exemples : zone d'entraînement au combat de l'armée de l'air, réseau RTBA) ;
+soit autorisée mais il faut suivre les instructions du gestionnaire de la zone (exemple : zone d'approche de certains aérodromes militaires) ;
+soit autorisée après simple contact radio.
+Si la zone est inactive, c'est comme si elle n'existait pas.
+Les conditions d'entrée varient énormément, il est donc conseillé, si vous comptez voler dans une telle zone, de consulter le complément aux cartes aéronautiques, publié par le SIA, pour voir sous quelles conditions vous pouvez transiter dans la zone. Les conditions vont de la simple demande de clairance à un organisme militaire, à l'interdiction pure et simple de pénétrer l'espace.
+Entre dans cette catégorie le réseau très basse altitude de la Défense (RTBA), un ensemble de zones réglementées reliées entre elles, destiné aux vols d’entraînement à très basse altitude et très grande vitesse des avions de chasse. Les zones du RTBA sont activables en toutes conditions météorologiques et leur contournement est obligatoire pendant les périodes d’activation.
+
+
+=== Zones interdites (P) ===
+Les zones P, interdites (de l'anglais prohibited), sont complètement interdites à tout aéronef civil. Elles sont peu nombreuses. L'une d'entre elles est la P 23 établie au-dessus de la ville de Paris survol à moins de 6 500 pieds d'altitude (2 000 m).
+Les autres zones P sont des bases militaires sensibles (base de sous-marins atomiques ou encore zones de test comme la zone 51), des sites du CEA et les centrales nucléaires.
+
+
+== Zones temporaires ==
+Zone interdite temporaire (ZIT)
+Ce sont des zones établies temporairement autour de bâtiments particuliers, de sites industriels pétrochimique ou nucléaire ou d'évènements particuliers dans le but d'interdire l'accès à tout aéronef non autorisé.
+Zone réglementée temporaire (ZRT)
+Ce sont des zones établies temporairement autour de bâtiments particuliers ou d'évènements particuliers, établissant une réglementation spécifique (contact radio obligatoire, transpondeur obligatoire, altitude de transit…)
+Les zones interdites ou règlementées temporaires (ZIT ou ZRT) peuvent être créées pour des évènements particuliers normalement de courte durée (inférieure à 3 mois), pour des raisons de sécurité (protection du trafic aérien généré pour la couverture du tour de France cycliste, le défilé du 14 juillet, exercice militaire de grande envergure, explosion d'une mine de la Seconde Guerre mondiale, etc.) ou pour des raisons de sûreté (lutte contre un acte malveillant sur une centrale nucléaire par exemple).
+Ces zones temporaires sont validées par le BEP (bureau exécutif permanent) du CRG (comité régional de gestion de l'espace aérien) compétent, la décision ministérielle est rédigée par la DGAC. Ces ZRT sont portées à la connaissance de l'usager de l'espace aérien par les publications aéronautiques temporaires (Notam ou SUP AIP).
+Les ZIT liées aux sites nucléaires sont en cours de transformation en zones permanentes P.
+
+
+== Ciel unique européen et interaction civil-militaire ==
+
+Parmi les règlementations Ciel unique européen, la règlementation 551/2004 de la commission définit l'espace comme un continuum qui n'est ni civil ni militaire et définit le principe d'une utilisation souple de l'espace aérien (FUA : Flexible Use of Airspace) dans le but d'augmenter la capacité de l'espace aérien européen. Elle définit également deux types de zones dites temporaires : Temporary Segregated Area (TSA) et Temporary Reserved Area (TRA). De plus, grâce à la définition de zones transfrontalières de contrôle (FAB : Functional Airspace Block), des zones transfrontalières militaires ont été définies (CBA : Cross Border Area).
+
+Temporary reserved area (TRA)
+Zone réservée temporairement dont la pénétration est soumise à autorisation.
+Temporary segregated area (TSA)
+Ce sont des zones réservées temporairement pour l'usage exclusif d'un utilisateur particulier et dont la pénétration est interdite aux autres aéronefs. Ces zones sont utilisées pour l'entrainement des forces, l'essai d'avions commerciaux ou militaires, ravitaillement en vol. Elles sont généralement à haute altitude (> FL195) mais elles peuvent aussi partir du sol comme les EB-(TSA)-28 A et 28B qui sont GND → FL105.
+Cross border area (CBA)
+Ce sont des zones à cheval sur la frontière de deux pays elles ont un statut de TSA et peuvent aller sous le FL195.
+
+
+== Évolution de l'espace aérien ==
+Les zones militaires en France sont nombreuses. Auparavant totalement fermées aux aéronefs civils, celles-ci sont aujourd'hui gérées en concertation au sein de cellules mixtes civilo-militaires. Les deux parties faisant part régulièrement de leurs besoins respectifs et s'accordant sur les horaires et périodes d'activation de ces zones. Mais, dans un ciel de plus en plus encombré, il est de plus en plus difficile de concilier les impératifs de chacun.
+Les zones contrôlées destinées à la protection des trajectoires de vol aux instruments (essentiellement l'aviation commerciale) ne cessent de prendre de l'ampleur et de devenir plus contraignantes, imposant entre autres l'obligation de contact radio ainsi que l'emport de transpondeur (équipement relativement coûteux permettant localisation par le contrôleur aérien de l'aéronef sur son écran radar).
+Dans les zones non contrôlées il n'y a pas d'obligation de contact radio, pas d'obligation d'emport de transpondeur, liberté quasi totale de trajectoire, etc.). Elles sont très appréciées par les pratiquants de l'aviation de loisir : aéroclubs, ULM, vol libre, planeurs. Les aéronefs évoluant dans ces zones appliquent la règle « voir et éviter » de façon autonome. Des CCRAGALS, comités consultatifs représentant l'aviation générale et l'aviation légère et sportive, sont consultés avant chaque campagne de modification d'espace (deux fois par an, juste avant les CRG). Il existe sept CCRAGALS, soit un dans chacune des DSAC (direction de la sécurité de l'aviation civile). Les zones non contrôlées tendent à disparaître au profit des zones contrôlées.
+L'espace aérien européen est en train de se mettre en place. Ainsi, depuis déjà quelques années, des organismes de contrôles frontaliers peuvent avoir des zones de responsabilités au-delà de leurs frontières. Les avions de chasse suisses ont par exemple le droit de voler armés dans l'est de la France, dans le cadre de la protection de Genève. Il faut cependant l'accord des gouvernements des deux pays pour abattre un autre avion présenté comme dangereux. Eurocontrol gère déjà l'espace aérien supérieur (UIR) pour plusieurs pays, le Benelux, simultanément. Les Pays-Bas, la Belgique et le Luxembourg assurent déjà la protection de leur espace aérien conjointement, avec permissions de survol des trois pays par un avion militaire d'un autre. Afin d'accroître la sécurité et la capacité (le « débit » des avions IFR), des blocs d'espace fonctionnels (FAB, functionnal airspace block), pourront favoriser la coopération des opérateurs des espaces aériens de plusieurs pays afin d'éviter un découpage selon les frontières nationales pas toujours opérationnel pour les contrôles aériens.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Classe d'espace aérien
+Voie aérienne
+
+
+=== Liens externes ===
+Liste des espaces aériens et leurs caractéristiques dans les publications d'information aéronautique du SIA (service de l'information aéronautique)  voir dans le guide VFR par exemple
+legifrance.gouv.fr Code de l'aviation civile sur Légifrance (articles D131-1 et suivants)
+
+ Portail de l’aéronautique

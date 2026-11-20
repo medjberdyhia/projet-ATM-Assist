@@ -1,0 +1,67 @@
+Source : https://fr.wikipedia.org/wiki/Règles_de_vol_aux_instruments
+
+Les règles de vol aux instruments (en abrégé IFR, sigle de l'équivalent en anglais « instrument flight rules ») définissent un régime de vol où la prévention des collisions repose sur le contrôle de la circulation aérienne et le respect de trajectoires spécifiques. Elles font partie des règles de l'air définies par l'OACI. Le pilote, à l'aide d'indications données par des instruments de bord et des directives reçues des contrôleurs aériens, doit :
+
+maintenir son avion dans une configuration propre au vol (altitude et vitesse) ;
+suivre une trajectoire imposée par les organismes de circulation aérienne (pour assurer sa séparation du relief, des obstacles et des autres aéronefs) ;
+respecter la réglementation et les procédures (conventionnelles ou PBN) publiées.
+Elles s'opposent aux règles de vol à vue (VFR, sigle de l'équivalent en anglais « visual flight rules ») où la prévention des collisions repose essentiellement sur le principe « voir et éviter ».
+Le vol IFR permet de voler en conditions météorologiques de vol aux instruments (IMC, sigle de l'équivalent en anglais « instrumental meteorological conditions »), c'est-à-dire quand les conditions météorologiques de vol à vue (VMC, sigle de l'équivalent en anglais « visual meteorological conditions ») ne sont pas réunies, par exemple dans les nuages. Les règles VMC dépendent de la classe d'espace aérien et de l'altitude.
+Un vol IFR nécessite un dépôt de plan de vol et il faut suivre les clairances des contrôleurs aériens.
+En moyenne, 28 000 vols par jour ont lieu en IFR en Europe en 2018.
+
+
+== Historique ==
+Très tôt après les premiers vols, les pilotes ont cherché à repousser leurs limites par mauvaises conditions météorologiques, notamment pour accélérer le développement des vols commerciaux, d'abord de courrier, puis de fret et de passagers. Déjà en 1910, on embarque une radio à des fins militaires, pour faire de l'avion un véritable outil d'observation du champ de bataille. L'année suivante, on s'essaye aux vols de nuit.
+Plus tard, en 1920, la marine américaine déroule un câble sous la mer qui trace une route électromagnétique de près de 100 milles nautiques (185 kilomètres). Un hydravion rejoint ainsi un navire au large des côtes et retourne à sa base en recevant un signal à son bord.
+En 1923, les Américains installent des balises lumineuses sur plusieurs centaines de kilomètres pour permettre de guider les pilotes la nuit. De la même manière, en France, des « phares » sont installés dans quelques lieux stratégiques pour guider les avions des premières lignes aériennes dont celles de Latécoère. C'est pourtant Maurice Noguès qui effectue le premier vol de nuit entre Strasbourg et Le Bourget le 2 septembre 1923 pour le compte de la ligne Franco-Roumaine.
+La même année, en France, des avions sont équipés des premiers cadres goniométriques qui permettent de détecter la direction de provenance d'un signal radio émis par une station au sol. Le radiocompas est né. L'année suivante, au Bourget, la première tour de contrôle est équipée elle aussi d'un goniomètre et peut guider les avions jusqu'au terrain en leur indiquant la route à suivre. La première radiobalise NDB à usage aéronautique est installée en 1925 à Orly.
+En août 1928, l'Armée de l'air débute les premières formations de pilotes au vol sans visibilité. Le futur général de corps aérien Gaston Venot y contribue. A l'aérodrome de Toussus-le-Noble, Lucien Rougerie développe une méthode de vol aux instruments.
+
+En 1929, on démontre aux États-Unis que le vol aux instruments est possible grâce à un horizon artificiel, un altimètre de précision et une aide au sol. Sous l'impulsion des frères Farman et du directeur de l'aéroport de Toussus-le-Noble, Lucien Rougerie, une première école de pilotage sans visibilité est créée, avec les pilotes Lucien Coupet, Marcel Lalouette et Joanny Burtin comme premiers instructeurs, mais il faut attendre 1930 pour que Gaston Génin effectue le premier atterrissage en conditions réelles aux instruments. Alors qu'il passe le terrain de Dortmund dans la brume, l'opérateur au sol lui transmet le signal ZZ. Il tourne alors à gauche de 12°, s'éloigne pendant trois minutes, guidé par l'opérateur, fait demi-tour par la droite en une minute, revient vers la piste, sort de la couche à quelques mètres du sol et se pose.
+Le premier ILS rudimentaire est installé à l'aéroport de New York en 1932 et au Bourget en 1933. À partir de 1935 en France, il faut être capable d'effectuer un atterrissage sans visibilité pour devenir pilote de ligne.
+Pendant la Seconde Guerre mondiale, la technique du radar est largement améliorée. On met au point les bases du système Loran où un navigateur à bord de l'avion mesure la différence de propagation de deux signaux émis par des stations au sol pour en déduire sa position au-dessus de l'Europe.
+
+En 1946, Orly est équipé pour l'atterrissage sans visibilité. C'est dans les années 1950 que l'on installe les premiers VOR aux États-Unis, en France il faudra attendre 1953 pour voir le premier d'entre eux à Orgeval puis Coulommiers, Bray et Orly en 1957.
+En 1955, le premier radar météo fait son apparition à bord d'un Douglas DC-3.
+En 1961, l'IFR devient obligatoire pour tous les vols de transport aérien public en Europe.
+Intégrant les progrès dans les pilotes automatiques, la Caravelle est le premier avion à se poser sans l'aide du pilote (qui doit quand même freiner puis rouler jusqu'au parking) en 1962. À Londres en 1965, le Trident est le premier appareil à atterrir en conditions réelles, avec des passagers, par des conditions dites de catégorie II soit 200 pieds (60 mètres) de plafond et 400 mètres de visibilité. En 1969, encore la Caravelle, un avion de ligne est certifié pour l'atterrissage avec des passagers en catégorie IIIA soit 100 pieds (30 mètres) de plafond et 200 mètres de visibilité (à 140 nœuds, vitesse d'atterrissage typique d'un avion de ligne, c'est la distance franchie en trois secondes). C'est un Airbus A300 qui réalise le premier atterrissage en catégorie IIIB en 1976 avec 125 mètres de visibilité.
+Les systèmes d'évitement de collision avec d'autres aéronefs (TCAS) ou le relief (GPWS) font leur apparition dans les années 1990, décennie qui popularise aussi le GPS inventé 15 ans plus tôt pour des applications militaires. Avec l'ADS-B, les avions envoient maintenant leur position au contrôle aérien sans que celui-ci ait besoin d'un radar.
+Un nouveau système, l'EGPWS permet maintenant aux pilotes de visualiser une représentation du sol en trois dimensions sur un écran, d'après une base de données du relief. On retrouve ce type d'écran sur des avions de ligne comme sur des avions d'affaires ou de tourisme.
+En 2020, deux premiers avions légers, le Piper M600 et le Daher TBM-940, sont certifiés avec la nouvelle fonctionnalité autoland de Garmin, qui permet de faire se poser l'avion de façon entièrement automatique.
+
+
+== Équipement des aéronefs ==
+
+Pour pouvoir voler en IFR (en France), les avions doivent être certifiés pour cela et équipés au moins des équipements suivants, permettant de respecter au moins une procédure sur le terrain de destination et sur celui de dégagement :
+
+anémomètre ;
+dégivrage pitot ;
+deux altimètres gradués en hectopascals ;
+variomètre gradué en pieds par minute ;
+prise de pression statique de secours ou équivalent ;
+compas ;
+horizon artificiel ;
+horizon artificiel de secours avec indication de dérapage ou bille-aiguille ;
+thermomètre de température extérieure ;
+conservateur de cap ;
+montre ;
+deux VOR ;
+radiocompas ou équivalent ;
+feux anticollision, de navigation et d'atterrissage ;
+éclairage intérieur réglable en intensité ;
+lampe électrique autonome de secours ;
+deux radios VHF ;
+deux systèmes de microphones/écouteurs.
+
+
+== Notes et références ==
+
+
+== Articles connexes ==
+Les aérodromes français accessibles en vol aux instruments
+Navigation basée sur la performance
+Required Navigation Performance
+Navigation de surface
+Jeppesen
+ Portail de l’aéronautique

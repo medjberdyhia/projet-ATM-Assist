@@ -1,0 +1,80 @@
+Source : https://fr.wikipedia.org/wiki/ADS-B
+
+L’ADS-B (Automatic Dependent Surveillance-Broadcast) est un système coopératif de radiocommunication aéronautique utilisé pour le contrôle du trafic aérien et la prévention des collisions.
+Un aéronef équipé de l'ADS-B envoie périodiquement sa position déterminée par un système de positionnement par satellites (GNSS), et d'autres informations, aux stations au sol et aux autres appareils équipés évoluant dans la zone, qui peuvent ainsi connaître la position des autres aéronefs à proximité.
+
+
+== Principe ==
+L'ADS-B est tout d'abord un moyen de surveillance du trafic aérien, c'est-à-dire un moyen pour le contrôle de connaître la position des aéronefs. Il est né de la constatation que les avions modernes, grâce aux systèmes de positionnement par satellite (tels que GPS, GLONASS et Galileo), connaissent leur position de manière beaucoup plus précise que le contrôle au sol, car les radars ont une précision limitée. L'idée est donc que l'avion calcule sa propre position, et l'envoie régulièrement par radio. C'est le principe de la surveillance dépendante, ainsi appelée parce que la position transmise dépend des moyens installés dans les avions.
+
+
+== Variantes ==
+Il existe plusieurs types de surveillance dépendante, notamment :
+
+l'ADS-C (Automatic Dependent Surveillance-Contract) ;
+l'ADS-B (Automatic Dependent Surveillance-Broadcast).
+l'ADS-L (Automatic Dependent Surveillance-Light).
+L'ADS-C fonctionne en mode connecté : il faut d'abord établir une connexion entre l'avion et la station intéressée par les informations qu'il va envoyer (typiquement une station de contrôle aérien au sol). Ensuite, selon le « contrat » ainsi négocié automatiquement, l'avion va envoyer une seule fois, ou périodiquement, sa position. L'ADS-C est généralement utilisé dans les zones océaniques, en utilisant des liaisons par satellite. Comme ces liaisons sont coûteuses, la cadence d'émission des informations est généralement faible, par exemple toutes les minutes ou toutes les dix minutes.
+L'ADS-B, en revanche, fonctionne en mode diffusion : il n'y a pas d'établissement de connexion. L'avion envoie régulièrement sa position et d'autres informations par une diffusion radio dite ADS-B « out » à tous les utilisateurs intéressés, typiquement le contrôle au sol, mais aussi les autres avions s'ils sont équipés d'un récepteur ADS-B « in ». La cadence d'émission de la position dépend de la phase du vol, par exemple toutes les dix secondes en route et toutes les secondes en approche.
+L'ADS-B est donc plus qu'un moyen de surveillance, puisqu'il permet à un avion équipé ADS-B « in » de connaître la position des autres avions qui l'entourent, du moins ceux qui sont équipés également de l'ADS-B, et ce avec une précision bien supérieure à celle du système système d'alerte de trafic et d'évitement de collision (TCAS). En outre, les messages ADS-B ne contiennent pas uniquement la position (3D), mais aussi d'autres informations (qui dépendent de l'implémentation) comme son identification, sa vitesse, son cap, et ses intentions (listes des prochains points de sa route prévue).
+L'un des avantages de l'ADS-B est que, puisque les avions émettent régulièrement leur position de manière omnidirectionnelle, il n'y a plus besoin de radar : une antenne radio au sol peut recevoir ces messages (station mode S), bien moins coûteuse qu'un radar. Pour cette raison, le déploiement de l'ADS-B est une alternative très intéressante dans les régions non équipées de radar. Dans ce cas bien sûr, pour que le contrôle au sol puisse connaître tous les avions, il doit y avoir une obligation d'emport d'un équipement ADS-B dans les espaces contrôlés.
+L'ADS-L est une alternative non certifiée, plus abordable et adaptée à l’aviation générale et de loisir, qui utilise une bande de fréquences non protégée, la SRD-860 (en) entre 863 et 870 MHz, et potentiellement la 4G ou la 5G.
+
+
+== Systèmes ADS-B ==
+
+Les liaisons ADS-B utilisent les bandes de fréquences suivantes :
+
+Le 1090 ES (en) (« 1 090 MHz Extended Squitter ») ;
+L'UAT (en) (« Universal Access Transceiver », sur 978 MHz);
+La VDL mode 4 (en) (« VHF Data Link Mode 4 »).
+Le 1090ES est une extension des transpondeurs radars mode S (en), qui émettent à 1 090 MHz. Sur les avions équipés mode S et TCAS, ces transpondeurs permettent déjà d'envoyer et recevoir des messages de 56 bits, utilisés par le TCAS. La modification leur permet d'envoyer des messages de 112 bits, suffisants pour l'ADS-B « out », et éventuellement de les recevoir (ADS-B « in »). Au sol, les informations ADS-B peuvent être reçues soit par un radar mode S, soit par une simple antenne omnidirectionnelle, bien moins coûteuse. Comme les avions commerciaux sont presque tous déjà équipés du TCAS, le 1090ES est une solution relativement peu coûteuse pour ces avions. Il n'en est pas de même pour les autres avions, en particulier les petits avions privés, pour lesquels l'installation ADS-B en 1090ES « à partir de rien » est très coûteuse.
+L'UAT vise à pallier ces inconvénients. Il s'agit d'un transpondeur spécifiquement conçu pour l'ADS-B, aussi bien in que out, et fonctionnant à 978 MHz. L'UAT est un système spécifiquement américain et uniquement pour les aéronefs volant en dessous de 18 000 pieds. Les créateurs de l'UAT espèrent que le coût de cet équipement sera bientôt suffisamment faible pour qu'il soit installé sur tous les avions privés. En outre, et c'est un besoin qui semble spécifiquement américain, l'UAT permet l'implémentation du service TIS-B (en) (voir paragraphe « applications » ci-dessous).
+La VDL mode 4 est à la fois un moyen de surveillance et de communication, fonctionnant dans la bande VHF aéronautique pour les communications mobiles (112 à 136,975 MHz). Pour la surveillance, la VDL-4 (en) rend les services de l'ADS-B et du TIS-B. Pour la communication, la VDL-4 permet comme la VDL-2 (en) de rendre le service CPDLC (en) (Controller-Pilot Data Link Communication) de communication contrôleur-pilote par liaison de donnée et non plus par la voix. Comme pour l'UAT, la VDL mode 4 est d'un coût plus abordable que le 1090ES pour l'aviation générale.
+
+
+== Mise en application ==
+
+Les États-Unis ont fait de l'ADS-B le socle de leur système de transport aérien de nouvelle génération (« Next Generation Air Transportation System »). La politique de la Federal Aviation Administration (FAA) est d'utiliser le 1090ES pour les vols commerciaux et l'UAT pour les autres avions.
+L'Europe n'a pas encore choisi de support physique, mais les expérimentations en cours[Quand ?] (Eurocontrol, France, Allemagne, Belgique...) utilisent principalement le 1090ES, en effet une simple modification logicielle des radars mode S existants leur permet de servir de station réceptrice pour l'ADS-B. La VDL mode 4 est privilégiée par la Suède, et par certaines compagnies aériennes[Lesquelles ?]. De toute manière, l'Europe étant bien couverte par les radars, l'implémentation de l'ADS-B est vue comme moins urgente qu'aux États-Unis. Une autre expérimentation baptisée « cristal med », vise à installer une couverture ADS-B du centre de la Méditerranée.
+La Chine est en cours de déploiement[Quand ?] d'un système ADS-B couvrant le centre du pays et utilisant l'UAT.
+L'Australie est en train[Quand ?] de déployer l'ADS-B en 1090ES, en commençant par les zones côtières (18 stations opérationnelles en décembre 2008).
+L'OACI a normalisé le 1090ES, l'UAT et la VDL mode 4.
+
+
+== Applications ==
+De nombreux sites et applications ont popularisé l’ADS-B : Flightradar24, ADSB Exchange, Flightaware, RadarBox, Opensky Network. Ces sites et applications mettent aussi à disposition leurs données à des développeurs qui suivent certains avions. Des comptes X suivis par des milliers de suiveurs ont popularisé cette utilisation : ElonJet de Jack Sweeeney qui suit Elon Musk, Cotamfleet qui suit notamment la flotte gouvernementale française, l’avion de Bernard Arnault et dénonce ses émissions de CO2.
+La première application est la surveillance : les données ADS-B sont en effet bien plus précises que celles des radars, puisque leur précision est celle du GNSS. Toutefois des questions se posent quant à leur intégrité. En effet une position précise ne suffit pas, il faut aussi savoir quand cette position devient incorrecte (par suite de parasites, de problèmes de réception GPS par les avions, etc.). La détermination d'une norme de séparation pour le contrôle aérien en ADS-B est ainsi un problème compliqué. De plus, la cohabitation, au moins pendant une phase de transition des pistes radar et ADS-B sur les écrans des contrôleurs, chaque type ayant sa précision et son intégrité, est délicate. Enfin, dans les zones couvertes par l'ADS-B mais non couvertes par le radar, seuls les avions ADS-B seront visibles par le contrôle.
+Une seconde application de l'ADS-B, utilisant la liaison « in », est l'ATSAW (airbone traffic situation awareness), permettant aux pilotes d'avoir une image précise (bien plus qu'avec le TCAS) du trafic aérien qui les entoure. Les États-Unis sont les principaux promoteurs de cette application qui permettrait théoriquement un pas vers le free flight (en). En Europe, l'ATSAW est considéré comme un cas particulier de l'ASAS (« Airborne Separation Assurance System », assistance à la séparation embarquée), un concept inventé en France par la DSNA mais repris par Eurocontrol et l'OACI, qui va au-delà de la simple visualisation du trafic par les pilotes en considérant par exemple des applications de délégation de séparation par les contrôleurs aux pilotes. Il s'agit actuellement de concepts théoriques qui font l'objet d'expérimentations dans le cadre du projet européen SESAR.
+Un problème avec l'ADS-B « in » est que seuls les avions équipés ADS-B seront visibles par les pilotes. Pour cette raison la FAA a développé un service appelé TIS-B (en) qui permet au sol d'envoyer à bord des avions la position des avions non équipés ADS-B mais détectés par les radars au sol. C'est un peu comme si les pilotes disposaient d'une image radar à bord. Seuls les États-Unis semblent promouvoir activement ce service, en remplacement du vieux TIS qui est en cours de démantèlement mais qui était apprécié par les pilotes.
+Parallèlement, les États-Unis développent aussi l'application FIS-B (en) (flight information service using ADS-B) qui permettra de transmettre aux pilotes des informations météorologiques et aéronautiques.
+Parce qu'il véhicule des informations plus précises que le TCAS, l'ADS-B pourrait également être utilisé pour améliorer ce dernier, et même pour concevoir un nouveau système anticollision embarqué.
+Enfin, l'ADS-B étant non-chiffré, n'importe qui pourra suivre le trafic aérien avec un simple récepteur ADS-B, ce qui peut poser des problèmes de sécurité. Il en va de même à bord, ainsi un avion piraté qui connait le trafic environnant pourrait être dirigé vers un autre avion en plein vol. Ce risque nouveau est l'objet de débats aux États-Unis.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Flarm
+Radiocommunication aéronautique
+Système de contrôle automatisé du trafic aérien
+Aircraft Communication Addressing and Reporting System (ACARS)
+Système d'identification automatique (en anglais, Automatic Identification System, AIS), un système similaire utilisé dans la marine
+FlightAware (en)
+Flightradar24
+
+
+=== Liens externes ===
+Sites proposant un aperçu du trafic aérien depuis un réseau de récepteur ADS-B
+« Radar virtuel »
+« Flightradar24 »
+Radar de vols en français
+Planefinder
+« Créer un récepteur ADS-B avec un Raspberry et une clé SDR »
+« Construire votre propre station au sol FlightAware PiAware ADS-B »
+
+ Portail des télécommunications   Portail de l’aéronautique
