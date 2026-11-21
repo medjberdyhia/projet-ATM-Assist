@@ -1,0 +1,21 @@
+[
+  {"id": 1,  "question": "Qu'est-ce qu'un transpondeur ?", "fichiers_attendus": ["transpondeur.txt"], "hors_corpus": false},
+  {"id": 2,  "question": "À quoi sert le transpondeur d'un avion ?", "fichiers_attendus": ["transpondeur.txt", "radar_secondaire.txt"], "hors_corpus": false},
+  {"id": 3,  "question": "Comment fonctionne le radar secondaire ?", "fichiers_attendus": ["radar_secondaire.txt"], "hors_corpus": false},
+  {"id": 4,  "question": "Sur quelle fréquence le radar secondaire interroge-t-il les transpondeurs ?", "fichiers_attendus": ["radar_secondaire.txt"], "hors_corpus": false},
+  {"id": 5,  "question": "Qu'est-ce que l'ADS-B ?", "fichiers_attendus": ["ads_b.txt"], "hors_corpus": false},
+  {"id": 6,  "question": "Quelle est la différence entre le 1090ES et l'UAT ?", "fichiers_attendus": ["ads_b.txt"], "hors_corpus": false},
+  {"id": 7,  "question": "Sur quelle fréquence fonctionne l'UAT ?", "fichiers_attendus": ["ads_b.txt"], "hors_corpus": false},
+  {"id": 8,  "question": "Quel est le rôle d'Eurocontrol ?", "fichiers_attendus": ["eurocontrol.txt"], "hors_corpus": false},
+  {"id": 9,  "question": "Qu'est-ce que le Ciel unique européen ?", "fichiers_attendus": ["ciel_unique_europeen.txt"], "hors_corpus": false},
+  {"id": 10, "question": "Que sont les règles de vol aux instruments ?", "fichiers_attendus": ["regles_de_vol_aux_instruments.txt"], "hors_corpus": false},
+  {"id": 11, "question": "Qu'est-ce que l'espace aérien contrôlé ?", "fichiers_attendus": ["espace_aerien.txt"], "hors_corpus": false},
+  {"id": 12, "question": "Quel est le rôle d'un contrôleur aérien ?", "fichiers_attendus": ["controle_de_la_circulation_aerienne.txt"], "hors_corpus": false},
+  {"id": 13, "question": "En quoi consiste la gestion du trafic aérien ?", "fichiers_attendus": ["gestion_du_trafic_aerien.txt"], "hors_corpus": false},
+  {"id": 14, "question": "Combien de pistes possède l'aéroport de Paris-Charles-de-Gaulle ?", "fichiers_attendus": ["aeroport_de_paris_charles_de_gaulle.txt"], "hors_corpus": false},
+  {"id": 15, "question": "Quelle est la capitale du Japon ?", "fichiers_attendus": [], "hors_corpus": true},
+  {"id": 16, "question": "Comment réussir une pâte à crêpes ?", "fichiers_attendus": [], "hors_corpus": true},
+  {"id": 17, "question": "Qui a gagné la Coupe du monde de football en 2018 ?", "fichiers_attendus": [], "hors_corpus": true},
+  {"id": 18, "question": "Quelle est la vitesse de la lumière ?", "fichiers_attendus": [], "hors_corpus": true},
+  {"id": 19, "question": "Comment fonctionne une batterie de voiture électrique ?", "fichiers_attendus": [], "hors_corpus": true}
+]
