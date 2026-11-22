@@ -8,4 +8,4 @@ MODELE_EMBEDDING = "paraphrase-multilingual-MiniLM-L12-v2"
 MODELE_LLM = "openrouter/free"
 SEUIL_SCORE = 0.40  # en dessous, on considère que les documents ne couvrent pas la question
 MODELE_AGENT = "openrouter/free"
-RECHERCHE_HYBRIDE = True
+RECHERCHE_HYBRIDE = False
