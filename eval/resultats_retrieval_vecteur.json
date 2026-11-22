@@ -1,0 +1,254 @@
+{
+  "resume": {
+    "n_questions_corpus": 14,
+    "hit@1": 0.9285714285714286,
+    "hit@3": 1.0,
+    "hit@5": 1.0,
+    "MRR": 0.9523809523809524,
+    "n_questions_avec_mot_cle": 4,
+    "passage_hit@3": 0.75,
+    "passage_hit@5": 0.75,
+    "score_min_corpus": 0.529,
+    "score_max_hors_corpus": 0.539
+  },
+  "lignes": [
+    {
+      "id": 1,
+      "question": "Qu'est-ce qu'un transpondeur ?",
+      "hors_corpus": false,
+      "attendus": [
+        "transpondeur.txt"
+      ],
+      "top1": "transpondeur.txt",
+      "meilleur_score": 0.728,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 2,
+      "question": "À quoi sert le transpondeur d'un avion ?",
+      "hors_corpus": false,
+      "attendus": [
+        "transpondeur.txt",
+        "radar_secondaire.txt"
+      ],
+      "top1": "transpondeur.txt",
+      "meilleur_score": 0.723,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 3,
+      "question": "Comment fonctionne le radar secondaire ?",
+      "hors_corpus": false,
+      "attendus": [
+        "radar_secondaire.txt"
+      ],
+      "top1": "radar_secondaire.txt",
+      "meilleur_score": 0.795,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 4,
+      "question": "Sur quelle fréquence le radar secondaire interroge-t-il les transpondeurs ?",
+      "hors_corpus": false,
+      "attendus": [
+        "radar_secondaire.txt"
+      ],
+      "top1": "radar_secondaire.txt",
+      "meilleur_score": 0.793,
+      "rang": 1,
+      "mot_cle": "1 030",
+      "rang_mot_cle": 1
+    },
+    {
+      "id": 5,
+      "question": "Qu'est-ce que l'ADS-B ?",
+      "hors_corpus": false,
+      "attendus": [
+        "ads_b.txt"
+      ],
+      "top1": "ads_b.txt",
+      "meilleur_score": 0.668,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la différence entre le 1090ES et l'UAT ?",
+      "hors_corpus": false,
+      "attendus": [
+        "ads_b.txt"
+      ],
+      "top1": "ads_b.txt",
+      "meilleur_score": 0.61,
+      "rang": 1,
+      "mot_cle": "1090",
+      "rang_mot_cle": 1
+    },
+    {
+      "id": 7,
+      "question": "Sur quelle fréquence fonctionne l'UAT ?",
+      "hors_corpus": false,
+      "attendus": [
+        "ads_b.txt"
+      ],
+      "top1": "ads_b.txt",
+      "meilleur_score": 0.693,
+      "rang": 1,
+      "mot_cle": "978",
+      "rang_mot_cle": 1
+    },
+    {
+      "id": 8,
+      "question": "Quel est le rôle d'Eurocontrol ?",
+      "hors_corpus": false,
+      "attendus": [
+        "eurocontrol.txt"
+      ],
+      "top1": "eurocontrol.txt",
+      "meilleur_score": 0.774,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 9,
+      "question": "Qu'est-ce que le Ciel unique européen ?",
+      "hors_corpus": false,
+      "attendus": [
+        "ciel_unique_europeen.txt"
+      ],
+      "top1": "eurocontrol.txt",
+      "meilleur_score": 0.65,
+      "rang": 3,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 10,
+      "question": "Que sont les règles de vol aux instruments ?",
+      "hors_corpus": false,
+      "attendus": [
+        "regles_de_vol_aux_instruments.txt"
+      ],
+      "top1": "regles_de_vol_aux_instruments.txt",
+      "meilleur_score": 0.529,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 11,
+      "question": "Qu'est-ce que l'espace aérien contrôlé ?",
+      "hors_corpus": false,
+      "attendus": [
+        "espace_aerien.txt"
+      ],
+      "top1": "espace_aerien.txt",
+      "meilleur_score": 0.827,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 12,
+      "question": "Quel est le rôle d'un contrôleur aérien ?",
+      "hors_corpus": false,
+      "attendus": [
+        "controle_de_la_circulation_aerienne.txt"
+      ],
+      "top1": "controle_de_la_circulation_aerienne.txt",
+      "meilleur_score": 0.744,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 13,
+      "question": "En quoi consiste la gestion du trafic aérien ?",
+      "hors_corpus": false,
+      "attendus": [
+        "gestion_du_trafic_aerien.txt"
+      ],
+      "top1": "gestion_du_trafic_aerien.txt",
+      "meilleur_score": 0.832,
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 14,
+      "question": "Combien de pistes possède l'aéroport de Paris-Charles-de-Gaulle ?",
+      "hors_corpus": false,
+      "attendus": [
+        "aeroport_de_paris_charles_de_gaulle.txt"
+      ],
+      "top1": "aeroport_de_paris_charles_de_gaulle.txt",
+      "meilleur_score": 0.815,
+      "rang": 1,
+      "mot_cle": "quatre pistes",
+      "rang_mot_cle": null
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la capitale du Japon ?",
+      "hors_corpus": true,
+      "attendus": [],
+      "top1": "aeroport_de_paris_charles_de_gaulle.txt",
+      "meilleur_score": 0.263,
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 16,
+      "question": "Comment réussir une pâte à crêpes ?",
+      "hors_corpus": true,
+      "attendus": [],
+      "top1": "controle_de_la_circulation_aerienne.txt",
+      "meilleur_score": 0.238,
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 17,
+      "question": "Qui a gagné la Coupe du monde de football en 2018 ?",
+      "hors_corpus": true,
+      "attendus": [],
+      "top1": "aeroport_de_paris_charles_de_gaulle.txt",
+      "meilleur_score": 0.293,
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la vitesse de la lumière ?",
+      "hors_corpus": true,
+      "attendus": [],
+      "top1": "regles_de_vol_aux_instruments.txt",
+      "meilleur_score": 0.336,
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    },
+    {
+      "id": 19,
+      "question": "Comment fonctionne une batterie de voiture électrique ?",
+      "hors_corpus": true,
+      "attendus": [],
+      "top1": "transpondeur.txt",
+      "meilleur_score": 0.539,
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
+    }
+  ]
+}

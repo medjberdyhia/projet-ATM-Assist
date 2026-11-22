@@ -31,7 +31,7 @@ def search_docs(question: str) -> str:
     passages les plus pertinents avec leur source. À utiliser pour toute question
     factuelle sur le contrôle aérien, les radars, les transpondeurs, Eurocontrol, etc."""
     passages = rechercher(question, k=4)
-    if not passages or passages[0]["score"] < SEUIL_SCORE:
+    if not passages or max(p["score"] for p in passages) < SEUIL_SCORE:
         return "Aucun passage pertinent trouvé."
     return construire_contexte(passages)
 

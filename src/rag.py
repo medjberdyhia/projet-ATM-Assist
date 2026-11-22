@@ -37,15 +37,16 @@ def construire_contexte(passages: list[dict]) -> str:
     )
 
 
-def _appeler_llm(messages: list[dict], essais: int = 3) -> tuple[str, str]:
+def _appeler_llm(messages: list[dict], essais: int = 3, modele_llm: str | None = None) -> tuple[str, str]:
     """Appelle le LLM. Certains modèles gratuits « réfléchissent » longtemps et renvoient
     une réponse vide : on laisse plus de place (max_tokens) et on réessaie.
     Retourne (texte, nom_du_modele_qui_a_répondu)."""
-    modele = MODELE_LLM
+    cible = modele_llm or MODELE_LLM
+    modele = cible
     for essai in range(1, essais + 1):
         try:
             reponse = _client().chat.completions.create(
-                model=MODELE_LLM, messages=messages, temperature=0, max_tokens=2000
+                model=cible, messages=messages, temperature=0, max_tokens=2000
             )
         except AuthenticationError:
             return "Erreur : clé API invalide ou révoquée.", modele
@@ -53,7 +54,7 @@ def _appeler_llm(messages: list[dict], essais: int = 3) -> tuple[str, str]:
             return "Erreur : limite de requêtes gratuites atteinte, attends une minute.", modele
         except APIError as e:
             return f"Erreur API OpenRouter : {e}", modele
-        modele = getattr(reponse, "model", MODELE_LLM)
+        modele = getattr(reponse, "model", cible)
         texte = (reponse.choices[0].message.content or "").strip()
         if texte:
             return texte, modele
@@ -62,10 +63,11 @@ def _appeler_llm(messages: list[dict], essais: int = 3) -> tuple[str, str]:
     return "(réponse vide)", modele
 
 
-def repondre(question: str, k: int = 3) -> dict:
-    """Retourne {'reponse', 'sources', 'passages', 'meilleur_score', 'modele'}."""
+def repondre(question: str, k: int = 3, modele: str | None = None) -> dict:
+    """Retourne {'reponse', 'sources', 'passages', 'meilleur_score', 'modele'}.
+    `modele` permet de forcer un modèle précis (utile pour comparer des modèles)."""
     passages = rechercher(question, k=k)
-    meilleur = passages[0]["score"] if passages else 0.0
+    meilleur = max((p["score"] for p in passages), default=0.0)
     sources = sorted({p["fichier"] for p in passages})
 
     # Garde-fou : si aucun passage n'est assez proche, inutile d'interroger le LLM
@@ -77,9 +79,9 @@ def repondre(question: str, k: int = 3) -> dict:
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": f"Extraits :\n{construire_contexte(passages)}\n\nQuestion : {question}"},
     ]
-    texte, modele = _appeler_llm(messages)
+    texte, modele_utilise = _appeler_llm(messages, modele_llm=modele)
     return {"reponse": texte, "sources": sources, "passages": passages,
-            "meilleur_score": meilleur, "modele": modele}
+            "meilleur_score": meilleur, "modele": modele_utilise}
 
 
 if __name__ == "__main__":

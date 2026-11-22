@@ -5,6 +5,9 @@
     "hit@3": 1.0,
     "hit@5": 1.0,
     "MRR": 0.9523809523809524,
+    "n_questions_avec_mot_cle": 4,
+    "passage_hit@3": 0.75,
+    "passage_hit@5": 0.75,
     "score_min_corpus": 0.529,
     "score_max_hors_corpus": 0.539
   },
@@ -18,7 +21,9 @@
       ],
       "top1": "transpondeur.txt",
       "meilleur_score": 0.728,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 2,
@@ -30,7 +35,9 @@
       ],
       "top1": "transpondeur.txt",
       "meilleur_score": 0.723,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 3,
@@ -41,7 +48,9 @@
       ],
       "top1": "radar_secondaire.txt",
       "meilleur_score": 0.795,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 4,
@@ -52,7 +61,9 @@
       ],
       "top1": "radar_secondaire.txt",
       "meilleur_score": 0.793,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": "1 030",
+      "rang_mot_cle": 1
     },
     {
       "id": 5,
@@ -63,7 +74,9 @@
       ],
       "top1": "ads_b.txt",
       "meilleur_score": 0.668,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 6,
@@ -74,7 +87,9 @@
       ],
       "top1": "ads_b.txt",
       "meilleur_score": 0.61,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": "1090",
+      "rang_mot_cle": 1
     },
     {
       "id": 7,
@@ -85,7 +100,9 @@
       ],
       "top1": "ads_b.txt",
       "meilleur_score": 0.693,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": "978",
+      "rang_mot_cle": 1
     },
     {
       "id": 8,
@@ -96,7 +113,9 @@
       ],
       "top1": "eurocontrol.txt",
       "meilleur_score": 0.774,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 9,
@@ -107,7 +126,9 @@
       ],
       "top1": "eurocontrol.txt",
       "meilleur_score": 0.65,
-      "rang": 3
+      "rang": 3,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 10,
@@ -118,7 +139,9 @@
       ],
       "top1": "regles_de_vol_aux_instruments.txt",
       "meilleur_score": 0.529,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 11,
@@ -129,7 +152,9 @@
       ],
       "top1": "espace_aerien.txt",
       "meilleur_score": 0.827,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 12,
@@ -140,7 +165,9 @@
       ],
       "top1": "controle_de_la_circulation_aerienne.txt",
       "meilleur_score": 0.744,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 13,
@@ -151,7 +178,9 @@
       ],
       "top1": "gestion_du_trafic_aerien.txt",
       "meilleur_score": 0.832,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 14,
@@ -162,7 +191,9 @@
       ],
       "top1": "aeroport_de_paris_charles_de_gaulle.txt",
       "meilleur_score": 0.815,
-      "rang": 1
+      "rang": 1,
+      "mot_cle": "quatre pistes",
+      "rang_mot_cle": null
     },
     {
       "id": 15,
@@ -171,7 +202,9 @@
       "attendus": [],
       "top1": "aeroport_de_paris_charles_de_gaulle.txt",
       "meilleur_score": 0.263,
-      "rang": null
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 16,
@@ -180,7 +213,9 @@
       "attendus": [],
       "top1": "controle_de_la_circulation_aerienne.txt",
       "meilleur_score": 0.238,
-      "rang": null
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 17,
@@ -189,7 +224,9 @@
       "attendus": [],
       "top1": "aeroport_de_paris_charles_de_gaulle.txt",
       "meilleur_score": 0.293,
-      "rang": null
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 18,
@@ -198,7 +235,9 @@
       "attendus": [],
       "top1": "regles_de_vol_aux_instruments.txt",
       "meilleur_score": 0.336,
-      "rang": null
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
     },
     {
       "id": 19,
@@ -207,7 +246,9 @@
       "attendus": [],
       "top1": "transpondeur.txt",
       "meilleur_score": 0.539,
-      "rang": null
+      "rang": null,
+      "mot_cle": null,
+      "rang_mot_cle": null
     }
   ]
 }
