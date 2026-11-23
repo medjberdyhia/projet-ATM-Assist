@@ -4,8 +4,6 @@
 
 Projet personnel réalisé en deux jours pour comprendre, de bout en bout, comment passer d'un prototype d'IA à un système **testé, mesuré et documenté**. Il reprend les briques d'un système agentique : agent et outils, base de connaissances avec embeddings, connecteur MCP, évaluation de la qualité.
 
-> **Note de transparence** : j'ai utilisé un assistant IA pour m'aider à écrire le code. Chaque étape a été exécutée, testée et analysée par moi ; les résultats, les échecs et les limites ci-dessous viennent de mes propres mesures.
-
 ---
 
 ## Ce que fait le projet
@@ -51,10 +49,10 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Crée un fichier `.env` à la racine (jamais versionné) avec ta clé OpenRouter :
+Crée un fichier `.env` à la racine (jamais versionné) avec ma clé OpenRouter :
 
 ```
-OPENROUTER_API_KEY=ta_cle
+OPENROUTER_API_KEY=ma_cle
 ```
 
 ## Utilisation
