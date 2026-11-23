@@ -4,7 +4,7 @@
 
 Projet personnel réalisé en deux jours pour comprendre, de bout en bout, comment passer d'un prototype d'IA à un système **testé, mesuré et documenté**. Il reprend les briques d'un système agentique : agent et outils, base de connaissances avec embeddings, connecteur MCP, évaluation de la qualité.
 
-**[▶ Voir la démo (vidéo)](docs/demo.mp4)**
+**[▶ Voir la démo (vidéo)](docs/https://github.com/user-attachments/assets/37b6047a-3478-44cb-a83a-a4b990129d04demo.mp4)**
 ## Ce que fait le projet
 
 On pose une question en langage naturel (« Quel est le rôle d'Eurocontrol ? »). L'assistant retrouve les passages pertinents dans une petite base de documents publics, répond **uniquement à partir de ces passages** en citant ses sources, et **refuse de répondre** quand les documents ne contiennent pas l'information.
