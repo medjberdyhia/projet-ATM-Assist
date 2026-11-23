@@ -4,6 +4,7 @@
 
 Projet personnel réalisé en deux jours pour comprendre, de bout en bout, comment passer d'un prototype d'IA à un système **testé, mesuré et documenté**. Il reprend les briques d'un système agentique : agent et outils, base de connaissances avec embeddings, connecteur MCP, évaluation de la qualité.
 
+![Démo](docs/demo.gif)
 ## Ce que fait le projet
 
 On pose une question en langage naturel (« Quel est le rôle d'Eurocontrol ? »). L'assistant retrouve les passages pertinents dans une petite base de documents publics, répond **uniquement à partir de ces passages** en citant ses sources, et **refuse de répondre** quand les documents ne contiennent pas l'information.
@@ -47,7 +48,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Crée un fichier `.env` à la racine (non versionné) avec ma clé OpenRouter :
+Crée un fichier `.env` à la racine (jamais versionné) avec ma clé OpenRouter :
 
 ```
 OPENROUTER_API_KEY=ma_cle
